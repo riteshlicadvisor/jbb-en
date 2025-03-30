@@ -1,5 +1,11 @@
 [
   {
+    "slug": "home",
+    "parentSlug": "-",
+    "postTitle": "Home",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/"
+  },
+  {
     "slug": "survey-form",
     "parentSlug": "home",
     "postTitle": "Survey Form",
