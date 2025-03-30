@@ -3,60 +3,70 @@
     "slug": "home",
     "parentSlug": "-",
     "postTitle": "Home",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/"
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/",
+    "mainTitle": "Home"
   },
   {
     "slug": "survey-form",
     "parentSlug": "home",
     "postTitle": "Survey Form",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/search/label/survey-form?max-results=5"
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/search/label/survey-form?max-results=5",
+    "mainTitle": "Survey Form"
   },
   {
     "slug": "survey-form-post1",
     "parentSlug": "survey-form",
-    "postTitle": "Download PDF file of LIC Survey Form",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form.html"
+    "postTitle": "Chapter 1",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form.html",
+    "mainTitle": "Download PDF file of LIC Survey Form"
   },
   {
     "slug": "survey-form-post2",
     "parentSlug": "survey-form",
-    "postTitle": "Challenges and Solutions in Life Insurance Agency",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/life-insurance-agency-challenges.html"
+    "postTitle": "Chapter 2",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/life-insurance-agency-challenges.html",
+    "mainTitle": "Challenges and Solutions in Life Insurance Agency"
   },
   {
     "slug": "survey-form-post3",
     "parentSlug": "survey-form",
-    "postTitle": "Objective, Benefits & Methods of Customer Contact",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form-objective.html"
+    "postTitle": "Chapter 3",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form-objective.html",
+    "mainTitle": "Objective, Benefits & Methods of Customer Contact"
   },
   {
     "slug": "survey-form-post4",
     "parentSlug": "survey-form",
-    "postTitle": "How to Start LIC Survey",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/how-to-start-lic-survey.html"
+    "postTitle": "Chapter 4",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/how-to-start-lic-survey.html",
+    "mainTitle": "How to Start LIC Survey"
   },
   {
     "slug": "survey-form-post5",
     "parentSlug": "survey-form",
-    "postTitle": "Impress Customers with LIC Profile",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-profile.html"
+    "postTitle": "Chapter 5",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-profile.html",
+    "mainTitle": "Impress Customers with LIC Profile"
   },
   {
     "slug": "survey-form-post6",
     "parentSlug": "survey-form",
-    "postTitle": "Effective Conversation Starters with Strangers",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/survey-form-effective-conversation.html"
+    "postTitle": "Chapter 6",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/survey-form-effective-conversation.html",
+    "mainTitle": "Effective Conversation Starters with Strangers"
   },
   {
     "slug": "survey-form-post7",
     "parentSlug": "survey-form",
-    "postTitle": "Strategy for the Contact Section",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form-contact-section.html"
+    "postTitle": "Chapter 7",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form-contact-section.html",
+    "mainTitle": "Strategy for the Contact Section"
   },
   {
     "slug": "survey-form-post8",
     "parentSlug": "survey-form",
-    "postTitle": "Survey Form Strategies and Tips for LIC Agents",
-    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form-strategies.html"
+    "postTitle": "Chapter 8",
+    "posturl": "https://jeevanbimabazaaren.blogspot.com/2025/03/lic-survey-form-strategies.html",
+    "mainTitle": "Survey Form Strategies and Tips for LIC Agents"
   }
 ]
