@@ -8,7 +8,7 @@
   },
   {
     "slug": "lic-faqs",
-    "parentSlug": "home",
+    "parentSlug": "होम",
     "postTitle": "एलआईसी FAQs",
     "posturl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html",
     "mainTitle": "जीवन बीमा कारोबार से जुड़े अक्सर पूछे जाने वाले प्रश्न"
@@ -50,7 +50,7 @@
   },
   {
     "slug": "agency-info",
-    "parentSlug": "home",
+    "parentSlug": "होम",
     "postTitle": "एजेंसी इनफार्मेशन",
     "posturl": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-information.html",
     "mainTitle": "जीवन बीमा एजेंसी से जुड़ी महत्वपूर्ण जानकारियां"
@@ -92,7 +92,7 @@
   },
   {
     "slug": "survey-form",
-    "parentSlug": "home",
+    "parentSlug": "होम",
     "postTitle": "सर्वे फॉर्म",
     "posturl": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-work-information.html",
     "mainTitle": "Life Insurance Agency Work Information"
