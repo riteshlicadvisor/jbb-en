@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "home",
+    "parentSlug": "-",
+    "postTitle": "Home",
+    "posturl": "https://www.jeevanbimabazaar.com/",
+    "mainTitle": "Home"
+  },
+  {
+    "slug": "lic-faqs",
+    "parentSlug": "Home",
+    "postTitle": "LIC FAQs",
+    "posturl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html",
+    "mainTitle": "जीवन बीमा कारोबार से जुड़े अक्सर पूछे जाने वाले प्रश्न"
+  },
+  {
+    "slug": "lic-faqs-post1",
+    "parentSlug": "lic-faqs",
+    "postTitle": "Chapter 1",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/10/bima-policy-faq.html",
+    "mainTitle": "जीवन बीमा से जुड़े सबसे महत्वपूर्ण सवाल"
+  },
+  {
+    "slug": "lic-faqs-post2",
+    "parentSlug": "lic-faqs",
+    "postTitle": "Chapter 2",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/10/life-insurance-claim-process-faq.html",
+    "mainTitle": "जीवन बीमा मृत्यु दावा अक्सर पूछे जाने वाले प्रश्न"
+  },
+  {
+    "slug": "lic-faqs-post3",
+    "parentSlug": "lic-faqs",
+    "postTitle": "Chapter 3",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/12/jeevan-bima-agency-faqs.html",
+    "mainTitle": "जीवन बीमा एजेंसी के बारे में अक्सर पूछे जाने वाले प्रश्न"
+  },
+  {
+    "slug": "lic-faqs-post4",
+    "parentSlug": "lic-faqs",
+    "postTitle": "Chapter 4",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/12/digital-era-insurance-agents-faq.html",
+    "mainTitle": "जीवन बीमा एजेंटों के डिजिटल मार्केटिंग FAQs"
+  },
+  {
+    "slug": "lic-faqs-post5",
+    "parentSlug": "lic-faqs",
+    "postTitle": "Chapter 5",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/12/lic-proposal-form-guide.html",
+    "mainTitle": "एलआईसी प्रपोजल फॉर्म के बारे में अक्सर पूछे जाने वाले प्रश्न"
+  },
+  {
+    "slug": "agency-info",
+    "parentSlug": "Home",
+    "postTitle": "Agency Information",
+    "posturl": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-information.html",
+    "mainTitle": "जीवन बीमा एजेंसी से जुड़ी महत्वपूर्ण जानकारियां"
+  },
+  {
+    "slug": "agency-info-post1",
+    "parentSlug": "agency-info",
+    "postTitle": "Chapter 1",
+    "posturl": "https://www.jeevanbimabazaar.com/2021/10/lic-rca-information.html",
+    "mainTitle": "एलआईसी रूरल करियर एजेंट की सम्पूर्ण जानकारी"
+  },
+  {
+    "slug": "agency-info-post2",
+    "parentSlug": "agency-info",
+    "postTitle": "Chapter 2",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/12/lic-bima-sakhi-ke-fayde.html",
+    "mainTitle": "एलआईसी बीमा सखी योजना: महिलाओं का आर्थिक सशक्तिकरण"
+  },
+  {
+    "slug": "agency-info-post3",
+    "parentSlug": "agency-info",
+    "postTitle": "Chapter 3",
+    "posturl": "https://www.jeevanbimabazaar.com/2022/02/lic-agency.html",
+    "mainTitle": "अभिकर्ता बनने के लिए करें सबसे अच्छी बीमा कंपनी"
+  },
+  {
+    "slug": "agency-info-post4",
+    "parentSlug": "agency-info",
+    "postTitle": "Chapter 4",
+    "posturl": "https://www.jeevanbimabazaar.com/2022/02/kaise-bane-lic-agent.html",
+    "mainTitle": "एलआईसी एजेंट बनने की सम्पूर्ण जानकारी"
+  },
+  {
+    "slug": "agency-info-post5",
+    "parentSlug": "agency-info",
+    "postTitle": "Chapter 5",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/06/lic-agent-responsibility.html",
+    "mainTitle": "जीवन बीमा एजेंट के कार्य"
+  },
+  {
+    "slug": "survey-form",
+    "parentSlug": "Home",
+    "postTitle": "Survey Form",
+    "posturl": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-work-information.html",
+    "mainTitle": "Life Insurance Agency Work Information"
+  },
+  {
+    "slug": "survey-form-post1",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 1",
+    "posturl": "https://www.jeevanbimabazaar.com/2020/05/best-prospecting-tips.html",
+    "mainTitle": "एलआईसी एजेंट के लिए सर्वे फॉर्म"
+  },
+  {
+    "slug": "survey-form-post2",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 2",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/09/jeevan-bima-agency-ki-chunauti.html",
+    "mainTitle": "जीवन बीमा एजेंसी में चुनौतियां एवं समाधान"
+  },
+  {
+    "slug": "survey-form-post3",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 3",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-ka-survey-form.html",
+    "mainTitle": "उद्देश्य, लाभ और ग्राहक संपर्क के तरीके"
+  },
+  {
+    "slug": "survey-form-post4",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 4",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-survey-kaise-start-karen.html",
+    "mainTitle": "सर्वे प्रक्रिया की पूरी जानकारी"
+  },
+  {
+    "slug": "survey-form-post5",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 5",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/09/anjan-logon-se-batchit-kaise-kare.html",
+    "mainTitle": "अनजान लोगों से बातचीत की प्रभावी शुरुआत"
+  },
+  {
+    "slug": "survey-form-post6",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 6",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-ki-profile.html",
+    "mainTitle": "एलआईसी की प्रोफाइल से बीमा बिक्री बढ़ाएं"
+  },
+  {
+    "slug": "survey-form-post7",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 7",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-survey-form-success-tips-one.html",
+    "mainTitle": "LIC सर्वे फॉर्म से बने सफल बीमा एजेंट | भाग 1"
+  },
+  {
+    "slug": "survey-form-post8",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 8",
+    "posturl": "https://www.jeevanbimabazaar.com/2024/10/lic-survey-form-2.html",
+    "mainTitle": "बीमा कारोबार में ग्राहक जीतने की कला | सर्वे फॉर्म भाग 2"
+  }
+]
