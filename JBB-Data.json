@@ -1,0 +1,114 @@
+[
+  {
+    "id": "licProfileDateHi",
+    "value": "15 सितंबर 2024"
+  },
+  {
+    "id": "licProfileDateEn",
+    "value": "Sep 15, 2024"
+  },
+  {
+    "id": "licProfileYearHi",
+    "value": "31 मार्च 2023"
+  },
+  {
+    "id": "licProfileYearEn",
+    "value": "Mar 15, 2023"
+  },
+  {
+    "id": "licProfileFinancialYear",
+    "value": "2022-23"
+  },
+  {
+    "id": "noLicCentral",
+    "value": "1"
+  },
+  {
+    "id": "noLicZo",
+    "value": "8"
+  },
+  {
+    "id": "noLicDo",
+    "value": "113"
+  },
+  {
+    "id": "noLicBo",
+    "value": "2048"
+  },
+  {
+    "id": "noLicPgsUnit",
+    "value": "78"
+  },
+  {
+    "id": "noLicSssUnit",
+    "value": "4"
+  },
+  {
+    "id": "noLicSo",
+    "value": "1584"
+  },
+  {
+    "id": "noLicMo",
+    "value": "1168"
+  },
+  {
+    "id": "noLictotal",
+    "value": "5004"
+  },
+  {
+    "id": "noOfIndividualPolicy",
+    "value": "27.74"
+  },
+  {
+    "id": "amountOfIndividualPolicy",
+    "value": "₹58,68,481.10"
+  },
+  {
+    "id": "noOfGroupPolicy",
+    "value": "8.80"
+  },
+  {
+    "id": "amountOfGroupPolicy",
+    "value": "₹23,92,820.85"
+  },
+  {
+    "id": "indiaPopulation",
+    "value": "145"
+  },
+  {
+    "id": "chinaPopulation",
+    "value": "141"
+  },
+  {
+    "id": "unitedStatesPopulation",
+    "value": "34"
+  },
+  {
+    "id": "indonesiaPopulation",
+    "value": "28"
+  },
+  {
+    "id": "licTotalIncome",
+    "value": "₹7,88,043.28"
+  },
+  {
+    "id": "licTotalPremiumIncome",
+    "value": "₹4,74,004.61"
+  },
+  {
+    "id": "licPayoutsToPolicyholders",
+    "value": "₹3,42,576.75"
+  },
+  {
+    "id": "licTotalLifeFundValue",
+    "value": "₹40,81,326.41"
+  },
+  {
+    "id": "licTotalAssetValue",
+    "value": "₹45,50,571.73"
+  },
+  {
+    "id": "licPerHourPayouts",
+    "value": "₹39.11"
+  }
+]
