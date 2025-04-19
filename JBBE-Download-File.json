@@ -3,7 +3,7 @@
     "ID": "survey-form",
     "Name": "Survey Form for LIC Agents",
     "Size": "4.72 MB",
-    "Type": "7-Zip",
+    "Type": "7 Zip",
     "URL": "https://drive.google.com/uc?export=download&id=10hsFQDXqn3DmSyc76EXL2oHYi8vbiFQ5"
   },
   {
@@ -26,5 +26,19 @@
     "Size": "5.9 MB",
     "Type": "7 Zip",
     "URL": "https://drive.google.com/uc?export=download&id=1ko6WCZqn4AQpzSNBppJYoyo08FhUu8Dw"
+  },
+  {
+    "ID": "rca-pdf",
+    "Name": "RCA PDF File",
+    "Size": "722 KB",
+    "Type": "7 Zip",
+    "URL": "https://drive.google.com/uc?export=download&id=1ksipG13ri3VkISD_5yhPe76Ow9Ygyq5S"
+  },
+  {
+    "ID": "rca-pdf-hi",
+    "Name": "आरसीए पीडीएफ फाइल",
+    "Size": "722 KB",
+    "Type": "7 Zip",
+    "URL": "https://drive.google.com/uc?export=download&id=1ksipG13ri3VkISD_5yhPe76Ow9Ygyq5S"
   }
 ]
