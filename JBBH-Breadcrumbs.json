@@ -152,5 +152,68 @@
     "postTitle": "अध्याय 8",
     "posturl": "https://www.jeevanbimabazaar.com/2024/10/lic-survey-form-2.html",
     "mainTitle": "बीमा कारोबार में ग्राहक जीतने की कला | सर्वे फॉर्म भाग 2"
+  },
+  {
+    "slug": "digitalMarketing",
+    "parentSlug": "होम",
+    "postTitle": "डिजिटल मार्केटिंग",
+    "posturl": "https://www.jeevanbimabazaar.com/p/digital-marketing-in-insurance-business.html",
+    "mainTitle": "बीमा एजेंटों के लिए डिजिटल मार्केटिंग"
+  },
+  {
+    "slug": "digitalMarketingPost1",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 1",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/05/digital-platform-life-insurance-agent-success.html",
+    "mainTitle": "डिजिटल प्लेटफॉर्म पर बीमा एजेंट के लिए चुनौतियां एवं समाधान"
+  },
+  {
+    "slug": "digitalMarketingPost2",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 2",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/05/social-media-tips-life-insurance-agents.html",
+    "mainTitle": "जीवन बीमा एजेंटों के लिए सोशल मीडिया: लाभकारी या हानिकारक?"
+  },
+  {
+    "slug": "digitalMarketingPost3",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 3",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/05/life-insurance-agent-social-media-usage.html",
+    "mainTitle": "जीवन बीमा एजेंट सोशल मीडिया का उपयोग कैसे करें?"
+  },
+  {
+    "slug": "digitalMarketingPost4",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 4",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/05/faqs-social-media-importance-lic-business.html",
+    "mainTitle": "जीवन बीमा व्यवसाय में सोशल मीडिया का महत्व"
+  },
+  {
+    "slug": "digitalMarketingPost5",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 5",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/05/social-media-life-insurance-agent-tips.html",
+    "mainTitle": "बीमा एजेंट सोशल मीडिया से नए ग्राहक कैसे खोजें"
+  },
+  {
+    "slug": "digitalMarketingPost6",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 6",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/05/best-social-media-for-life-insurance.html",
+    "mainTitle": "जीवन बीमा एजेंटों के लिए बेस्ट सोशल मीडिया"
+  },
+  {
+    "slug": "digitalMarketingPost7",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 7",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/08/social-media-life-insurance-sales-tips.html",
+    "mainTitle": "सोशल मीडिया के लिए बीमा एजेंटों की सफलता के टिप्स"
+  },
+  {
+    "slug": "digitalMarketingPost8",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "अध्याय 8",
+    "posturl": "https://www.jeevanbimabazaar.com/2023/08/insurance-agents-tips-social-media.html",
+    "mainTitle": "सोशल मीडिया पर बीमा ग्राहकों को संभालने की कला"
   }
 ]
