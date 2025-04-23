@@ -5,6 +5,11 @@
     "posturl_hi": "https://www.jeevanbimabazaar.com/p/survey-form.html"
   },
   {
+    "slug": "Life Insurance Agency Information",
+    "posturl_en": "https://en.jeevanbimabazaar.com/p/life-insurance-agency-information.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-information.html"
+  },
+  {
     "slug": "Download PDF file of LIC Survey Form",
     "posturl_en": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form.html",
     "posturl_hi": "https://www.jeevanbimabazaar.com/2020/05/best-prospecting-tips.html"
@@ -68,5 +73,45 @@
     "slug": "Responsibility of Life Insurance Agent",
     "posturl_en": "https://en.jeevanbimabazaar.com/2025/04/responsibility-of-life-insurance-agent.html",
     "posturl_hi": "https://www.jeevanbimabazaar.com/2023/06/lic-agent-responsibility.html"
+  },
+  {
+    "slug": "डिजिटल प्लेटफॉर्म पर बीमा एजेंट के लिए चुनौतियां एवं समाधान",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/04/digital-agent-challenges.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2023/05/digital-platform-life-insurance-agent-success.html"
+  },
+  {
+    "slug": "जीवन बीमा एजेंटों के लिए सोशल मीडिया: लाभकारी या हानिकारक?",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/04/social-media-for-agents.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2023/05/social-media-tips-life-insurance-agents.html"
+  },
+  {
+    "slug": "जीवन बीमा एजेंट सोशल मीडिया का उपयोग कैसे करें?",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/04/smart-social-media-use.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2023/05/life-insurance-agent-social-media-usage.html"
+  },
+  {
+    "slug": "जीवन बीमा व्यवसाय में सोशल मीडिया का महत्व",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/04/social-media-life-insurance-business.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2023/05/faqs-social-media-importance-lic-business.html"
+  },
+  {
+    "slug": "बीमा एजेंट सोशल मीडिया से कैसे बढ़ाएं ग्राहक नेटवर्क",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/04/agent-client-growth-online.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2025/04/bima-agent-social-media-clients.html"
+  },
+  {
+    "slug": "एजेंट्स के लिए सोशल मीडिया का स्मार्ट चयन",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/04/agents-digital-media-strategy.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2025/04/agents-social-media-selection.html"
+  },
+  {
+    "slug": "सोशल मीडिया से बड़ा बीमा बेचने की कला",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/05/big-insurance-sales-socialmedia.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2025/04/bima-sale-social-media.html"
+  },
+  {
+    "slug": "नकारात्मक ग्राहकों को भी बनाएं अपने बीमा ग्राहक",
+    "posturl_en": "https://en.jeevanbimabazaar.com/2025/05/deal-difficult-clients.html",
+    "posturl_hi": "https://www.jeevanbimabazaar.com/2025/04/smart-client-handling.html"
   }
 ]
