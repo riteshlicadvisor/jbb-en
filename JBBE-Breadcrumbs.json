@@ -110,5 +110,68 @@
     "postTitle": "Chapter 5",
     "posturl": "https://en.jeevanbimabazaar.com/2025/04/responsibility-of-life-insurance-agent.html",
     "mainTitle": "Responsibility of Life Insurance Agent"
+  },
+  {
+    "slug": "digitalMarketing",
+    "parentSlug": "home",
+    "postTitle": "Digital Marketing",
+    "posturl": "https://en.jeevanbimabazaar.com/p/digital-marketing-for-insurance-agents.html",
+    "mainTitle": "Digital Marketing for Insurance Agents"
+  },
+  {
+    "slug": "digitalMarketingPost1",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/04/digital-agent-challenges.html",
+    "mainTitle": "Challenges and Solutions for Agents on Digital Platform"
+  },
+  {
+    "slug": "digitalMarketingPost2",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 2",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/04/social-media-for-agents.html",
+    "mainTitle": "How Social Media Helps or Hurts Life Insurance Agents"
+  },
+  {
+    "slug": "digitalMarketingPost3",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 3",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/04/smart-social-media-use.html",
+    "mainTitle": "Smart Social Media Use for Life Insurance Agents"
+  },
+  {
+    "slug": "digitalMarketingPost4",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 4",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/04/social-media-life-insurance-business.html",
+    "mainTitle": "Importance of Social Media in Life Insurance Business"
+  },
+  {
+    "slug": "digitalMarketingPost5",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 5",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/04/agent-client-growth-online.html",
+    "mainTitle": "Grow Your Client Network with Smart Social Media Strategies"
+  },
+  {
+    "slug": "digitalMarketingPost6",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 6",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/04/agents-digital-media-strategy.html",
+    "mainTitle": "Smart Social Media Selection for Insurance Agents"
+  },
+  {
+    "slug": "digitalMarketingPost7",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 7",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/big-insurance-sales-socialmedia.html",
+    "mainTitle": "The Art of Selling Big Insurance Through Social Media"
+  },
+  {
+    "slug": "digitalMarketingPost8",
+    "parentSlug": "digitalMarketing",
+    "postTitle": "Chapter 8",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/deal-difficult-clients.html",
+    "mainTitle": "How to Convert Negative Prospects into Policyholders"
   }
 ]
