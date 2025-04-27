@@ -215,5 +215,19 @@
     "postTitle": "अध्याय 8",
     "posturl": "https://www.jeevanbimabazaar.com/2025/04/smart-client-handling.html",
     "mainTitle": "नकारात्मक ग्राहकों को भी बनाएं अपने बीमा ग्राहक"
+  },
+  {
+    "slug": "licInforcePlan",
+    "parentSlug": "होम",
+    "postTitle": "एलआईसी के इनफोर्स प्लान",
+    "posturl": "https://www.jeevanbimabazaar.com/p/lic-in-force-policy.html",
+    "mainTitle": "एलआईसी की इन-फोर्स पॉलिसियों के बारे में जानकारी"
+  },
+  {
+    "slug": "licInforcePlan",
+    "parentSlug": "licInforcePlan",
+    "postTitle": "अध्याय 1",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/04/lic-riders-full-details.html",
+    "mainTitle": "पूरा सच एलआईसी राइडर्स का: हर लाभ, हर विकल्प विस्तार से"
   }
 ]
