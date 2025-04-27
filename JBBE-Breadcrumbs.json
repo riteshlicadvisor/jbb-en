@@ -173,5 +173,19 @@
     "postTitle": "Chapter 8",
     "posturl": "https://en.jeevanbimabazaar.com/2025/05/deal-difficult-clients.html",
     "mainTitle": "How to Convert Negative Prospects into Policyholders"
+  },
+  {
+    "slug": "licInforcePlan",
+    "parentSlug": "home",
+    "postTitle": "LIC Inforce Plans",
+    "posturl": "https://en.jeevanbimabazaar.com/p/lic-in-force-policies.html",
+    "mainTitle": "Information about LIC's in-force Policies"
+  },
+  {
+    "slug": "licInforcePlanPost1",
+    "parentSlug": "licInforcePlan",
+    "postTitle": "Chapter 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/lic-riders-complete-info.html",
+    "mainTitle": "LIC Riders: Enhance Your Life Insurance Like a Pro"
   }
 ]
