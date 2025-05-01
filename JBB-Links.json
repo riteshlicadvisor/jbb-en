@@ -1,9 +1,27 @@
 [
   {
-    "linkID": "licBranchLocatorHi",
-    "linkTitle": "एलआईसी का शाखा कार्यालय खोजें »",
-    "linkUrl": "https://locator.jeevanbimabazaar.com/p/search-lic-branch-office.html",
-    "linkAreaLabel": "एलआईसी के शाखा कार्यालय की जानकारी प्राप्त करें"
+    "linkID": "disAdbRiderEn",
+    "linkTitle": "LIC's Accidental Benefit Rider »",
+    "linkUrl": "",
+    "linkAreaLabel": "Know more about LIC's Accidental Benefit Rider"
+  },
+  {
+    "linkID": "disAdbRiderHi",
+    "linkTitle": "एलआईसी का एक्सीडेंटल बेनिफिट राइडर »",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/lic-adb-rider.html",
+    "linkAreaLabel": "एलआईसी का एक्सीडेंटल बेनिफिट राइडर के बारे में जानें"
+  },
+  {
+    "linkID": "licAgentLocatorEn",
+    "linkTitle": "Professional Life Insurance Agents Information »",
+    "linkUrl": "https://locator.jeevanbimabazaar.com/p/professional-lic-agent-near-you.html",
+    "linkAreaLabel": "Find a life insurance agent near you"
+  },
+  {
+    "linkID": "licAgentLocatorHi",
+    "linkTitle": "जीवन बीमा विशेषज्ञ की जानकारी »",
+    "linkUrl": "https://locator.jeevanbimabazaar.com/p/professional-lic-agent-near-you.html",
+    "linkAreaLabel": "अपने नजदीकी जीवन बीमा एजेंट के बारे में जानें"
   },
   {
     "linkID": "licBranchLocatorEn",
@@ -12,10 +30,10 @@
     "linkAreaLabel": "Search LIC Branch Office"
   },
   {
-    "linkID": "licDoLocatorHi",
-    "linkTitle": "विकास अधिकारी एवं सीएलआईए की सूची »",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2022/06/lic-do-clia-list.html",
-    "linkAreaLabel": "एलआईसी में एजेंट नियुक्त करने वाले अधिकारियों की सूची देखें"
+    "linkID": "licBranchLocatorHi",
+    "linkTitle": "एलआईसी का शाखा कार्यालय खोजें »",
+    "linkUrl": "https://locator.jeevanbimabazaar.com/p/search-lic-branch-office.html",
+    "linkAreaLabel": "एलआईसी के शाखा कार्यालय की जानकारी प्राप्त करें"
   },
   {
     "linkID": "licDoLocatorEn",
@@ -24,27 +42,135 @@
     "linkAreaLabel": "See the list of officers who appoint agents in LIC"
   },
   {
-    "linkID": "disAdbRiderHi",
-    "linkTitle": "एलआईसी का एक्सीडेंटल बेनिफिट राइडर »",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/lic-adb-rider.html",
-    "linkAreaLabel": "एलआईसी का एक्सीडेंटल बेनिफिट राइडर"
+    "linkID": "licDoLocatorHi",
+    "linkTitle": "विकास अधिकारी एवं सीएलआईए की सूची »",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2022/06/lic-do-clia-list.html",
+    "linkAreaLabel": "एलआईसी में एजेंट नियुक्त करने वाले अधिकारियों की सूची देखें"
   },
   {
-    "linkID": "disAdbRiderEn",
-    "linkTitle": "LIC's Accidental Benefit Rider »",
-    "linkUrl": "",
-    "linkAreaLabel": "LIC's Accidental Benefit Rider"
+    "linkID": "postJbbh02112024",
+    "linkTitle": "बीमा पॉलिसियों के मृत्यु दावा सूचना में समस्या और समाधान",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2024/11/mrityu-dawa-samasya-samadhan.html",
+    "linkAreaLabel": "मृत्यु दावा सूचना में समस्या और समाधान के लिए लेख विस्तार से पढ़ें"
   },
   {
-    "linkID": "licAgentLocatorHi",
-    "linkTitle": "जीवन बीमा विशेषज्ञ की जानकारी »",
-    "linkUrl": "https://locator.jeevanbimabazaar.com/p/professional-lic-agent-near-you.html",
-    "linkAreaLabel": "Professional LIC Agents Near You"
+    "linkID": "postJbbh14102024",
+    "linkTitle": "एलआईसी में मृत्यु दावा हेतु आवेदन पत्र",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2024/10/lic-mrityu-dawa-awedan.html",
+    "linkAreaLabel": "एलआईसी के मृत्यु दावा हेतु आवेदन पत्र के बारे में विस्तार से जानें"
   },
   {
-    "linkID": "licAgentLocatorEn",
-    "linkTitle": "Professional Life Insurance Agents Information »",
-    "linkUrl": "https://locator.jeevanbimabazaar.com/p/professional-lic-agent-near-you.html",
-    "linkAreaLabel": "Professional LIC Agents Near You"
+    "linkID": "shortHi01112024",
+    "linkTitle": "बीमा कंपनी को मृत्यु की सूचना कितने समय के भीतर कर देना चाहिए",
+    "linkUrl": "https://youtube.com/shorts/XEIRb5ImJIc",
+    "linkAreaLabel": "बीमा कंपनी को मृत्यु की सूचना प्रस्तुत करने की समय सीमा – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi03122024",
+    "linkTitle": "यदि मृत्यु किसी गांव या अस्पताल में हुई है, तो मैं मृत्यु प्रमाण पत्र कहां से प्राप्त कर सकता हूं",
+    "linkUrl": "https://youtube.com/shorts/7PQyDUS8Mac",
+    "linkAreaLabel": "मृत्यु किसी गांव या अस्पताल में हुई है तो मृत्यु प्रमाण पत्र कहां से प्राप्त करें – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi04122024",
+    "linkTitle": "अगर जीवन बीमा दावे के लिए मृत्यु प्रमाण पत्र मिलने में देरी हो रही है तो मुझे क्या करना चाहिए",
+    "linkUrl": "https://youtube.com/shorts/QZQjYca8JoQ",
+    "linkAreaLabel": "मृत्यु प्रमाण पत्र मिलने में देरी हो रही हो तो क्या करना चाहिए – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi05112024",
+    "linkTitle": "जीवन बीमा दस्तावेजों की जांच करना क्यों महत्वपूर्ण है",
+    "linkUrl": "https://youtube.com/shorts/tzdYIQ68k_I",
+    "linkAreaLabel": "दस्तावेजों की जांच करना जरुरी क्यों – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi06122024",
+    "linkTitle": "एफयूपी FUP क्या है और मृत्यु दावे में इसका क्या महत्व है ",
+    "linkUrl": "https://youtube.com/shorts/hqdqC7ZFU0Q",
+    "linkAreaLabel": "FUP क्या है और मृत्यु दावे में इसका क्या महत्व है – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi07112024",
+    "linkTitle": "जीवन बीमा पॉलिसियों में मृत्यु दावा कहते किसको है ",
+    "linkUrl": "https://youtube.com/shorts/O89VRnUHOyU",
+    "linkAreaLabel": "मृत्यु दावा किसे कहते हैं – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi09112024",
+    "linkTitle": "जीवन बीमा पॉलिसी में पॉलिसी धारक की मृत्यु के बाद क्या करना चाहिए",
+    "linkUrl": "https://youtube.com/shorts/aFkbXxo9-eQ",
+    "linkAreaLabel": "पॉलिसीधारक की मृत्यु के बाद क्या करना चाहिए – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi11112024",
+    "linkTitle": "मृत्यु दावे के लिए कौन से दस्तावेज़ ज़रूरी हैं",
+    "linkUrl": "https://youtube.com/shorts/6BbatUxwqdQ",
+    "linkAreaLabel": "मृत्यु दावे के लिए जरुरी दस्तावेज़ – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi14112024",
+    "linkTitle": "एलआईसी के शाखा कार्यालय का पता और ईमेल कैसे खोजें",
+    "linkUrl": "https://youtube.com/shorts/rCxPsxvVI1Y",
+    "linkAreaLabel": "एलआईसी के शाखा कार्यालय का पता और ईमेल कैसे खोजें – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi16112024",
+    "linkTitle": "बीमा पॉलिसियों के मृत्यु दावे में सबसे पहले क्या जांचना चाहिए",
+    "linkUrl": "https://youtube.com/shorts/Xl9wJLB2RTY",
+    "linkAreaLabel": "मृत्यु दावे में सबसे पहले क्या जांचना चाहिए – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi18112024",
+    "linkTitle": "अगर बीमा कंपनी को मृत्यु दावा सूचना देर से मिले तो क्या होगा",
+    "linkUrl": "https://youtube.com/shorts/iiWXG9B1DnQ",
+    "linkAreaLabel": "मृत्यु दावा सूचना में देरी के परिणाम – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi20112024",
+    "linkTitle": "जीवन बीमा पॉलिसी के लिए मृत्यु प्रमाण पत्र किस प्रकार का होना चाहिए",
+    "linkUrl": "https://youtube.com/shorts/0BsztYlcjBo",
+    "linkAreaLabel": "मृत्यु प्रमाण पत्र किस प्रकार का होना चाहिए – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi22112024",
+    "linkTitle": "जीवन बीमा पॉलिसियों के लिए आधिकारिक मृत्यु प्रमाण पत्र कैसे प्राप्त करें",
+    "linkUrl": "https://youtube.com/shorts/dZF8YhDPx-o",
+    "linkAreaLabel": "आधिकारिक मृत्यु प्रमाण पत्र कैसे प्राप्त करें – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi23102024",
+    "linkTitle": "मैं अपने जीवन बीमा पॉलिसी दस्तावेजों की जांच कैसे करूं",
+    "linkUrl": "https://youtube.com/shorts/HWfGeqYi9YA",
+    "linkAreaLabel": "पॉलिसी दस्तावेजों की जांच कैसे करें – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi24112024",
+    "linkTitle": "क्या मृत्यु प्रमाण पत्र के बिना बीमा दावा संभव है ",
+    "linkUrl": "https://youtube.com/shorts/FN7ekZDVg1c",
+    "linkAreaLabel": "क्या मृत्यु प्रमाण पत्र के बिना बीमा दावा संभव है – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi25102024",
+    "linkTitle": "जीवन बीमा पॉलिसी खरीदने के बाद क्या करें",
+    "linkUrl": "https://youtube.com/shorts/Ew1nnNXz1vw",
+    "linkAreaLabel": "पॉलिसी खरीदने के बाद क्या करें – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi26112024",
+    "linkTitle": "मृत्यु दावा के लिए बीमा कंपनी को ईमेल कैसे करें",
+    "linkUrl": "https://youtube.com/shorts/luHOhDbfuhA",
+    "linkAreaLabel": "मृत्यु दावा के लिए बीमा कंपनी को ईमेल कैसे करें – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi28112024",
+    "linkTitle": "क्या बीमा कंपनी बिना कारण बताये मृत्यु दावा खारिज कर सकती है",
+    "linkUrl": "https://youtube.com/shorts/iCajEOvWieM",
+    "linkAreaLabel": "क्या बीमा कंपनी बिना कारण बताये मृत्यु दावा खारिज कर सकती है – शॉर्ट वीडियो में जानें"
+  },
+  {
+    "linkID": "shortHi30112024",
+    "linkTitle": "बीमा दावा अस्वीकृत होने पर क्या करें",
+    "linkUrl": "https://youtube.com/shorts/cYDzcQvAdjc",
+    "linkAreaLabel": "बीमा दावा अस्वीकृत होने पर क्या करें – शॉर्ट वीडियो में जानें"
   }
 ]
