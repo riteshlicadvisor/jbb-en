@@ -7,46 +7,46 @@
     "mainTitle": "Home"
   },
   {
-    "slug": "lic-faqs",
+    "slug": "faqs",
     "parentSlug": "होम",
     "postTitle": "एलआईसी FAQs",
     "posturl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html",
     "mainTitle": "जीवन बीमा कारोबार से जुड़े अक्सर पूछे जाने वाले प्रश्न"
   },
   {
-    "slug": "lic-faqs-post1",
-    "parentSlug": "lic-faqs",
+    "slug": "faqs-post1",
+    "parentSlug": "faqs",
     "postTitle": "अध्याय 1",
     "posturl": "https://www.jeevanbimabazaar.com/2024/10/bima-policy-faq.html",
-    "mainTitle": "जीवन बीमा से जुड़े सबसे महत्वपूर्ण सवाल"
+    "mainTitle": "जीवन बीमा से जुड़े आम सवालों के जवाब"
   },
   {
-    "slug": "lic-faqs-post2",
-    "parentSlug": "lic-faqs",
+    "slug": "faqs-post2",
+    "parentSlug": "faqs",
     "postTitle": "अध्याय 2",
     "posturl": "https://www.jeevanbimabazaar.com/2024/10/life-insurance-claim-process-faq.html",
-    "mainTitle": "जीवन बीमा मृत्यु दावा अक्सर पूछे जाने वाले प्रश्न"
+    "mainTitle": "मृत्यु दावा प्रक्रिया पर आधारित FAQs"
   },
   {
-    "slug": "lic-faqs-post3",
-    "parentSlug": "lic-faqs",
+    "slug": "faqs-post3",
+    "parentSlug": "faqs",
     "postTitle": "अध्याय 3",
     "posturl": "https://www.jeevanbimabazaar.com/2024/12/jeevan-bima-agency-faqs.html",
-    "mainTitle": "जीवन बीमा एजेंसी के बारे में अक्सर पूछे जाने वाले प्रश्न"
+    "mainTitle": "जीवन बीमा एजेंसी से जुड़े ज़रूरी सवाल-जवाब"
   },
   {
-    "slug": "lic-faqs-post4",
-    "parentSlug": "lic-faqs",
+    "slug": "faqs-post4",
+    "parentSlug": "faqs",
     "postTitle": "अध्याय 4",
     "posturl": "https://www.jeevanbimabazaar.com/2024/12/digital-era-insurance-agents-faq.html",
-    "mainTitle": "जीवन बीमा एजेंटों के डिजिटल मार्केटिंग FAQs"
+    "mainTitle": "बीमा एजेंसी डिजिटल मार्केटिंग पर सवाल-जवाब"
   },
   {
-    "slug": "lic-faqs-post5",
-    "parentSlug": "lic-faqs",
+    "slug": "faqs-post5",
+    "parentSlug": "faqs",
     "postTitle": "अध्याय 5",
     "posturl": "https://www.jeevanbimabazaar.com/2024/12/lic-proposal-form-guide.html",
-    "mainTitle": "एलआईसी प्रपोजल फॉर्म के बारे में अक्सर पूछे जाने वाले प्रश्न"
+    "mainTitle": "एलआईसी प्रपोजल फॉर्म से जुड़े सवाल-जवाब"
   },
   {
     "slug": "agency-info",
