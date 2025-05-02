@@ -187,5 +187,47 @@
     "postTitle": "Chapter 1",
     "posturl": "https://en.jeevanbimabazaar.com/2025/05/lic-riders-complete-info.html",
     "mainTitle": "LIC Riders: Enhance Your Life Insurance Like a Pro"
+  },
+  {
+    "slug": "faqs",
+    "parentSlug": "home",
+    "postTitle": "Life Insurance FAQs",
+    "posturl": "https://en.jeevanbimabazaar.com/p/life-insurance-faqs.html",
+    "mainTitle": "FAQs Related to Life Insurance Industry"
+  },
+  {
+    "slug": "faqsPost1",
+    "parentSlug": "faqs",
+    "postTitle": "Chapter 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/life-insurance-faqs.html",
+    "mainTitle": "Key FAQs About Life Insurance"
+  },
+  {
+    "slug": "faqsPost2",
+    "parentSlug": "faqs",
+    "postTitle": "Chapter 2",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/life-insurance-death-claim-faqs.html",
+    "mainTitle": "Top FAQs on Life Insurance Death Claims"
+  },
+  {
+    "slug": "faqsPost3",
+    "parentSlug": "faqs",
+    "postTitle": "Chapter 3",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/life-insurance-agency-faqs-guide.html",
+    "mainTitle": "Your Guide to FAQs in Life Insurance Agency"
+  },
+  {
+    "slug": "faqsPost4",
+    "parentSlug": "faqs",
+    "postTitle": "Chapter 4",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/digital-strategy-faqs-life-insurance.html",
+    "mainTitle": "Digital Marketing FAQs for Insurance Agents"
+  },
+  {
+    "slug": "faqsPost5",
+    "parentSlug": "faqs",
+    "postTitle": "Chapter 5",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/lic-proposal-form-faqs.html",
+    "mainTitle": "Common Questions About LIC Proposal Form"
   }
 ]
