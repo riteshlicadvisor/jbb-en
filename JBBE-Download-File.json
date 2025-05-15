@@ -142,14 +142,14 @@
   {
     "ID": "licForm3816Hi",
     "Name": "एलआईसी फॉर्म संख्या 3816",
-    "Size": "",
+    "Size": "74 KB",
     "Type": "PDF",
     "URL": "https://drive.google.com/uc?export=download&id=1heAZuhPOHBBa1D_s7BvdPBC-kZD5eqci"
   },
   {
     "ID": "licForm3816En",
     "Name": "LIC Form No. 3816",
-    "Size": "",
+    "Size": "74 KB",
     "Type": "PDF",
     "URL": "https://drive.google.com/uc?export=download&id=1heAZuhPOHBBa1D_s7BvdPBC-kZD5eqci"
   },
@@ -166,5 +166,33 @@
     "Size": "725 KB",
     "Type": "PDF",
     "URL": "https://drive.google.com/uc?export=download&id=11nhn_qMTA_u6oR3g1lTtwSLC4ao2_Jk-"
+  },
+  {
+    "ID": "licForm3784BHi",
+    "Name": "एलआईसी फॉर्म संख्या 3784B",
+    "Size": "85 KB",
+    "Type": "PDF",
+    "URL": "https://drive.google.com/uc?export=download&id=1fg0JLOBK_BfeU2A4ZAaRAkbpTu4-0xMg"
+  },
+  {
+    "ID": "licForm3784BEn",
+    "Name": "LIC Form No. 3784B",
+    "Size": "85 KB",
+    "Type": "PDF",
+    "URL": "https://drive.google.com/uc?export=download&id=1fg0JLOBK_BfeU2A4ZAaRAkbpTu4-0xMg"
+  },
+  {
+    "ID": "licDummyForm3784BHi",
+    "Name": "फॉर्म संख्या 3784B (सैंपल फाइल)",
+    "Size": "809 KB",
+    "Type": "PDF",
+    "URL": "https://drive.google.com/uc?export=download&id=1tfPrFYg0tqk0dRt11zwcJGxViuokhrRO"
+  },
+  {
+    "ID": "licDummyForm3784BEn",
+    "Name": "Form No. 3784B (Sample File)",
+    "Size": "809 KB",
+    "Type": "PDF",
+    "URL": "https://drive.google.com/uc?export=download&id=1tfPrFYg0tqk0dRt11zwcJGxViuokhrRO"
   }
 ]
