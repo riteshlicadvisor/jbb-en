@@ -292,5 +292,17 @@
     "linkTitle": "Nominee Rights in India",
     "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/nominee-rights-in-india.html",
     "linkAreaLabel": "Know in detail the legal rights of the nominee in India"
+  },
+  {
+    "linkID": "freeListingHi",
+    "linkTitle": "ऑनलाइन लोकेटर सेवा पंजीकरण",
+    "linkUrl": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html",
+    "linkAreaLabel": "अपने कारोबार को डिजिटल करने हेतु पंजीकरण कीजिये"
+  },
+  {
+    "linkID": "freeListingEn",
+    "linkTitle": "Online Locator Service Registration",
+    "linkUrl": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html",
+    "linkAreaLabel": "Register to digitize your business"
   }
 ]
