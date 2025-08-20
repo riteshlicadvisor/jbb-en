@@ -77,6 +77,13 @@
     "mainTitle": "Nominee Related Information for LIC Survey Form"
   },
   {
+    "slug": "survey-form-post10",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 10",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-claim.html",
+    "mainTitle": "Death Claim Related Information for LIC Survey Form"
+  },
+  {
     "slug": "agency-info",
     "parentSlug": "home",
     "postTitle": "Agency Information",
