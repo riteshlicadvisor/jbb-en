@@ -1,12 +1,5 @@
 [
   {
-    "slug": "होम",
-    "parentSlug": "-",
-    "postTitle": "होम",
-    "posturl": "https://www.jeevanbimabazaar.com/",
-    "mainTitle": "Home"
-  },
-  {
     "slug": "faqs",
     "parentSlug": "होम",
     "postTitle": "एलआईसी FAQs",
