@@ -207,7 +207,7 @@
     "Subject": "role",
     "Chapter": "1",
     "ChapterName": "बीमा एजेंटों के लिए: प्रॉस्पेक्टिंग, आपत्तियाँ, मार्केटिंग और बिक्री टूल्स",
-    "ChapterUrl": "#"
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/bima-agent-guide.html"
   },
   {
     "Subject": "role",
@@ -219,6 +219,138 @@
     "Subject": "role",
     "Chapter": "3",
     "ChapterName": "पॉलिसीधारकों के लिए: पॉलिसी, प्रीमियम, लोन आदि जानकारी",
-    "ChapterUrl": "#"
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "1",
+    "ChapterName": "एजेंसी की जानकारी: प्रकार, प्रक्रिया और एजेंट की जिम्मेदारियाँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-information.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "2",
+    "ChapterName": "डेथ क्लेम की जानकारी: फॉर्म, दस्तावेज़ और आवश्यक सावधानियाँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "3",
+    "ChapterName": "डिजिटल मार्केटिंग: ऑनलाइन माध्यम से कारोबार बढ़ाने की रणनीतियाँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/bima-agent-ke-liye-digital-marketing.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "4",
+    "ChapterName": "अक्सर पूछे जाने वाले प्रश्न: बीमा और एजेंट कार्य से जुड़े सामान्य सवाल",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "5",
+    "ChapterName": "एलआईसी के राइडर्स: सभी राइडर्स और उनकी मुख्य विशेषताएँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-in-force-policy.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "6",
+    "ChapterName": "एलआईसी सर्वे फॉर्म: सर्वे फॉर्म से नए प्रॉस्पेक्ट्स बढ़ाने के उपाय",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/survey-form.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "7",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "1",
+    "ChapterName": "एलआईसी मृत्यु दावा एप्लीकेशन",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/10/lic-mrityu-dawa-awedan.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "2",
+    "ChapterName": "जीवन बीमा पॉलिसी में दस्तावेजों की जांच एवं सुधार",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/10/jeevan-bima-dastawez-sudhar.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "3",
+    "ChapterName": "बीमा पॉलिसियों के मृत्यु दावा सूचना में समस्या और समाधान",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/11/mrityu-dawa-samasya-samadhan.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "4",
+    "ChapterName": "प्रीमियम बकाया हो तो भी मृत्यु दावा लें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/11/mritudava-premium-na-bharne-par.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "5",
+    "ChapterName": "गलत बीमा विक्री से एजेंसी बचाव के उपाय",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/insurance-agency-termination.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "6",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3783A भरने की विधि",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-death-claim-form-3783a.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "7",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3785 भरने की प्रक्रिया",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-mrutyu-dava-form-3785.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "8",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3816 कैसे भरें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-form-3816-kaise-bhare.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "9",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3784 कैसे भरें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-mrityu-dava-form-3784.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "10",
+    "ChapterName": "एलआईसी फॉर्म संख्या 3788 कैसे भरें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-form-3788-kaise-bhare.html"
+  },
+  {
+    "Subject": "deathClaim",
+    "Chapter": "11",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "policyholder",
+    "Chapter": "1",
+    "ChapterName": "डेथ क्लेम जानकारी: प्रक्रिया, फॉर्म और आवश्यक दस्तावेज़",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html"
+  },
+  {
+    "Subject": "policyholder",
+    "Chapter": "2",
+    "ChapterName": "अक्सर पूछे जाने वाले प्रश्न: पॉलिसी व सेवाओं से जुड़े संक्षिप्त उत्तर",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html"
+  },
+  {
+    "Subject": "policyholder",
+    "Chapter": "3",
+    "ChapterName": "एलआईसी राइडर्स: सभी राइडर्स और उनकी विशेषताओं का विवरण",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-in-force-policy.html"
+  },
+  {
+    "Subject": "policyholder",
+    "Chapter": "4",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   }
 ]
