@@ -1,5 +1,12 @@
 [
   {
+    "slug": "होम",
+    "parentSlug": "-",
+    "postTitle": "होम",
+    "posturl": "https://www.jeevanbimabazaar.com/",
+    "mainTitle": "Home"
+  },
+  {
     "slug": "faqs",
     "parentSlug": "होम",
     "postTitle": "एलआईसी FAQs",
@@ -243,5 +250,19 @@
     "postTitle": "अध्याय 1",
     "posturl": "https://www.jeevanbimabazaar.com/2025/04/lic-riders-full-details.html",
     "mainTitle": "पूरा सच एलआईसी राइडर्स का: हर लाभ, हर विकल्प विस्तार से"
+  },
+  {
+    "slug": "bimaAgency",
+    "parentSlug": "होम",
+    "postTitle": "बीमा एजेंसी",
+    "posturl": "https://www.jeevanbimabazaar.com/p/bima-agency-sachhi-samaj-seva.html",
+    "mainTitle": "बीमा एजेंसी: सिर्फ कारोबार ही नहीं, बल्कि सच्ची समाज सेवा है"
+  },
+  {
+    "slug": "bimaAgency1",
+    "parentSlug": "bimaAgency",
+    "postTitle": "अध्याय 1",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/09/jeevan-bima-agent-safalta-tips.html",
+    "mainTitle": "जीवन बीमा बिक्री में सफलता के 4 अटूट स्तंभ"
   }
 ]
