@@ -250,5 +250,19 @@
     "postTitle": "Chapter 5",
     "posturl": "https://en.jeevanbimabazaar.com/2025/05/lic-proposal-form-faqs.html",
     "mainTitle": "Common Questions About LIC Proposal Form"
+  },
+  {
+    "slug": "bimaAgency",
+    "parentSlug": "home",
+    "postTitle": "Life Insurance Agency Growth",
+    "posturl": "https://en.jeevanbimabazaar.com/p/life-insurance-agency.html",
+    "mainTitle": "Life Insurance Agency: Not Just Business, But Service Too"
+  },
+  {
+    "slug": "bimaAgency1",
+    "parentSlug": "bimaAgency",
+    "postTitle": "Chapter 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/09/life-insurance-success-key.html",
+    "mainTitle": "Keys to Success in Life Insurance Business"
   }
 ]
