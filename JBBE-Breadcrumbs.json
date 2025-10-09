@@ -1,96 +1,5 @@
 [
   {
-    "slug": "home",
-    "parentSlug": "-",
-    "postTitle": "Home",
-    "posturl": "https://en.jeevanbimabazaar.com/",
-    "mainTitle": "Home"
-  },
-  {
-    "slug": "survey-form",
-    "parentSlug": "home",
-    "postTitle": "Survey Form",
-    "posturl": "https://en.jeevanbimabazaar.com/p/survey-form.html",
-    "mainTitle": "Complete Course of Survey Form for LIC Agents"
-  },
-  {
-    "slug": "survey-form-post1",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 1",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form.html",
-    "mainTitle": "Download PDF file of LIC Survey Form"
-  },
-  {
-    "slug": "survey-form-post2",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 2",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/life-insurance-agency-challenges.html",
-    "mainTitle": "Challenges and Solutions in Life Insurance Agency"
-  },
-  {
-    "slug": "survey-form-post3",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 3",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form-objective.html",
-    "mainTitle": "Objective, Benefits & Methods of Customer Contact"
-  },
-  {
-    "slug": "survey-form-post4",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 4",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/how-to-start-lic-survey.html",
-    "mainTitle": "How to Start LIC Survey"
-  },
-  {
-    "slug": "survey-form-post5",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 5",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/survey-form-effective-conversation.html",
-    "mainTitle": "Effective Conversation Starters with Strangers"
-  },
-  {
-    "slug": "survey-form-post6",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 6",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-profile.html",
-    "mainTitle": "Impress Customers with LIC Profile"
-  },
-  {
-    "slug": "survey-form-post7",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 7",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form-contact-section.html",
-    "mainTitle": "Strategy for the Contact Section"
-  },
-  {
-    "slug": "survey-form-post8",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 8",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form-strategies.html",
-    "mainTitle": "Survey Form Strategies and Tips for LIC Agents"
-  },
-  {
-    "slug": "survey-form-post9",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 9",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-nominee.html",
-    "mainTitle": "Nominee Related Information for LIC Survey Form"
-  },
-  {
-    "slug": "survey-form-post10",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 10",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-claim.html",
-    "mainTitle": "Death Claim Related Information for LIC Survey Form"
-  },
-  {
-    "slug": "survey-form-post11",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 11",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-address-change.html",
-    "mainTitle": "Address Change Related Information for LIC Survey Form"
-  },
-  {
     "slug": "agency-info",
     "parentSlug": "home",
     "postTitle": "Agency Information",
@@ -131,6 +40,20 @@
     "postTitle": "Chapter 5",
     "posturl": "https://en.jeevanbimabazaar.com/2025/04/responsibility-of-life-insurance-agent.html",
     "mainTitle": "Responsibility of Life Insurance Agent"
+  },
+  {
+    "slug": "bimaAgency",
+    "parentSlug": "home",
+    "postTitle": "Life Insurance Agency Growth",
+    "posturl": "https://en.jeevanbimabazaar.com/p/life-insurance-agency.html",
+    "mainTitle": "Life Insurance Agency: Not Just Business, But Service Too"
+  },
+  {
+    "slug": "bimaAgency1",
+    "parentSlug": "bimaAgency",
+    "postTitle": "Chapter 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/09/life-insurance-success-key.html",
+    "mainTitle": "Keys to Success in Life Insurance Business"
   },
   {
     "slug": "digitalMarketing",
@@ -196,20 +119,6 @@
     "mainTitle": "How to Convert Negative Prospects into Policyholders"
   },
   {
-    "slug": "licInforcePlan",
-    "parentSlug": "home",
-    "postTitle": "LIC Inforce Plans",
-    "posturl": "https://en.jeevanbimabazaar.com/p/lic-in-force-policies.html",
-    "mainTitle": "Information about LIC's in-force Policies"
-  },
-  {
-    "slug": "licInforcePlanPost1",
-    "parentSlug": "licInforcePlan",
-    "postTitle": "Chapter 1",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/05/lic-riders-complete-info.html",
-    "mainTitle": "LIC Riders: Enhance Your Life Insurance Like a Pro"
-  },
-  {
     "slug": "faqs",
     "parentSlug": "home",
     "postTitle": "Life Insurance FAQs",
@@ -252,18 +161,32 @@
     "mainTitle": "Common Questions About LIC Proposal Form"
   },
   {
-    "slug": "bimaAgency",
-    "parentSlug": "home",
-    "postTitle": "Life Insurance Agency Growth",
-    "posturl": "https://en.jeevanbimabazaar.com/p/life-insurance-agency.html",
-    "mainTitle": "Life Insurance Agency: Not Just Business, But Service Too"
+    "slug": "healthMcq1",
+    "parentSlug": "mcq-ic38",
+    "postTitle": "Mock Test Set 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/irda-ic38-health-insurance-mock-test-1.html",
+    "mainTitle": "IRDA IC38 Mock Test 1: Health Insurance Agent Exam Preparation"
   },
   {
-    "slug": "bimaAgency1",
-    "parentSlug": "bimaAgency",
+    "slug": "home",
+    "parentSlug": "-",
+    "postTitle": "Home",
+    "posturl": "https://en.jeevanbimabazaar.com/",
+    "mainTitle": "Home"
+  },
+  {
+    "slug": "licInforcePlan",
+    "parentSlug": "home",
+    "postTitle": "LIC Inforce Plans",
+    "posturl": "https://en.jeevanbimabazaar.com/p/lic-in-force-policies.html",
+    "mainTitle": "Information about LIC's in-force Policies"
+  },
+  {
+    "slug": "licInforcePlanPost1",
+    "parentSlug": "licInforcePlan",
     "postTitle": "Chapter 1",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/09/life-insurance-success-key.html",
-    "mainTitle": "Keys to Success in Life Insurance Business"
+    "posturl": "https://en.jeevanbimabazaar.com/2025/05/lic-riders-complete-info.html",
+    "mainTitle": "LIC Riders: Enhance Your Life Insurance Like a Pro"
   },
   {
     "slug": "mcq-ic38",
@@ -313,5 +236,89 @@
     "postTitle": "Mock Test Set 6",
     "posturl": "https://en.jeevanbimabazaar.com/2025/10/irda-ic38-mock-test-set-6.html",
     "mainTitle": "IRDA IC38 Mock Test Set 6 — Free Practice Questions for LIC Agent Aspirants"
+  },
+  {
+    "slug": "survey-form",
+    "parentSlug": "home",
+    "postTitle": "Survey Form",
+    "posturl": "https://en.jeevanbimabazaar.com/p/survey-form.html",
+    "mainTitle": "Complete Course of Survey Form for LIC Agents"
+  },
+  {
+    "slug": "survey-form-post1",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form.html",
+    "mainTitle": "Download PDF file of LIC Survey Form"
+  },
+  {
+    "slug": "survey-form-post10",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 10",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-claim.html",
+    "mainTitle": "Death Claim Related Information for LIC Survey Form"
+  },
+  {
+    "slug": "survey-form-post11",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 11",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-address-change.html",
+    "mainTitle": "Address Change Related Information for LIC Survey Form"
+  },
+  {
+    "slug": "survey-form-post2",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 2",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/life-insurance-agency-challenges.html",
+    "mainTitle": "Challenges and Solutions in Life Insurance Agency"
+  },
+  {
+    "slug": "survey-form-post3",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 3",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form-objective.html",
+    "mainTitle": "Objective, Benefits & Methods of Customer Contact"
+  },
+  {
+    "slug": "survey-form-post4",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 4",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/how-to-start-lic-survey.html",
+    "mainTitle": "How to Start LIC Survey"
+  },
+  {
+    "slug": "survey-form-post5",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 5",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/survey-form-effective-conversation.html",
+    "mainTitle": "Effective Conversation Starters with Strangers"
+  },
+  {
+    "slug": "survey-form-post6",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 6",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-profile.html",
+    "mainTitle": "Impress Customers with LIC Profile"
+  },
+  {
+    "slug": "survey-form-post7",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 7",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form-contact-section.html",
+    "mainTitle": "Strategy for the Contact Section"
+  },
+  {
+    "slug": "survey-form-post8",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 8",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form-strategies.html",
+    "mainTitle": "Survey Form Strategies and Tips for LIC Agents"
+  },
+  {
+    "slug": "survey-form-post9",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 9",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-nominee.html",
+    "mainTitle": "Nominee Related Information for LIC Survey Form"
   }
 ]
