@@ -264,5 +264,33 @@
     "postTitle": "अध्याय 1",
     "posturl": "https://www.jeevanbimabazaar.com/2025/09/jeevan-bima-agent-safalta-tips.html",
     "mainTitle": "जीवन बीमा बिक्री में सफलता के 4 अटूट स्तंभ"
+  },
+  {
+    "slug": "mcq-ic38",
+    "parentSlug": "होम",
+    "postTitle": "IRDA IC38 ",
+    "posturl": "https://www.jeevanbimabazaar.com/p/irda-ic38.html",
+    "mainTitle": "IRDA IC38 — सम्पूर्ण परीक्षा तैयारी हब"
+  },
+  {
+    "slug": "mcq1",
+    "parentSlug": "mcq-ic38",
+    "postTitle": "मॉक टेस्ट सेट-1",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-1.html",
+    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-1 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+  },
+  {
+    "slug": "mcq2",
+    "parentSlug": "mcq-ic38",
+    "postTitle": "मॉक टेस्ट सेट-2",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-2.html",
+    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-2 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+  },
+  {
+    "slug": "mcq3",
+    "parentSlug": "mcq-ic38",
+    "postTitle": "मॉक टेस्ट सेट-3",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-3.html",
+    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-3 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
   }
 ]
