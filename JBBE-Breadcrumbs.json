@@ -264,5 +264,33 @@
     "postTitle": "Chapter 1",
     "posturl": "https://en.jeevanbimabazaar.com/2025/09/life-insurance-success-key.html",
     "mainTitle": "Keys to Success in Life Insurance Business"
+  },
+  {
+    "slug": "mcq-ic38",
+    "parentSlug": "home",
+    "postTitle": "IRDA IC38 ",
+    "posturl": "https://en.jeevanbimabazaar.com/p/irda-ic38-mock-tests.html",
+    "mainTitle": "IRDA IC38 Mock Tests — Full Practice Series for Insurance Agent Exam"
+  },
+  {
+    "slug": "mcq1",
+    "parentSlug": "mcq-ic38",
+    "postTitle": "Mock Test Set 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/irda-ic38-mock-test-set-1.html",
+    "mainTitle": "IRDA IC38 Mock Test Set 1 — LIC Agent Exam Practice with Answers"
+  },
+  {
+    "slug": "mcq2",
+    "parentSlug": "mcq-ic38",
+    "postTitle": "Mock Test Set 2",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/irda-ic38-mock-test-set-2.html",
+    "mainTitle": "IRDA IC38 Mock Test Set 2 — LIC Agent Exam Practice with Answers"
+  },
+  {
+    "slug": "mcq3",
+    "parentSlug": "mcq-ic38",
+    "postTitle": "Mock Test Set 3",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/irda-ic38-mock-test-set-3.html",
+    "mainTitle": "IRDA IC38 Mock Test Set 3 — Practice MCQs for Insurance Agent Exam"
   }
 ]
