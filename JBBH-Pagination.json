@@ -212,8 +212,8 @@
   {
     "Subject": "role",
     "Chapter": "2",
-    "ChapterName": "फील्ड अधिकारियों के लिए: भर्ती, प्रदर्शन और डिजिटल सुपरविजन",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+    "ChapterName": "जीवन बीमा फील्ड ऑफिसर संसाधन — प्रशिक्षण, गाइड और टूल्स",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/field-officer-sansadhan.html"
   },
   {
     "Subject": "role",
@@ -230,36 +230,42 @@
   {
     "Subject": "agent",
     "Chapter": "2",
+    "ChapterName": "IRDA IC38 — सम्पूर्ण परीक्षा तैयारी हब",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/irda-ic38.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "3",
     "ChapterName": "डेथ क्लेम की जानकारी: फॉर्म, दस्तावेज़ और आवश्यक सावधानियाँ",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html"
   },
   {
     "Subject": "agent",
-    "Chapter": "3",
+    "Chapter": "4",
     "ChapterName": "डिजिटल मार्केटिंग: ऑनलाइन माध्यम से कारोबार बढ़ाने की रणनीतियाँ",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/bima-agent-ke-liye-digital-marketing.html"
   },
   {
     "Subject": "agent",
-    "Chapter": "4",
+    "Chapter": "5",
     "ChapterName": "अक्सर पूछे जाने वाले प्रश्न: बीमा और एजेंट कार्य से जुड़े सामान्य सवाल",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html"
   },
   {
     "Subject": "agent",
-    "Chapter": "5",
+    "Chapter": "6",
     "ChapterName": "एलआईसी के राइडर्स: सभी राइडर्स और उनकी मुख्य विशेषताएँ",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-in-force-policy.html"
   },
   {
     "Subject": "agent",
-    "Chapter": "6",
+    "Chapter": "7",
     "ChapterName": "एलआईसी सर्वे फॉर्म: सर्वे फॉर्म से नए प्रॉस्पेक्ट्स बढ़ाने के उपाय",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/survey-form.html"
   },
   {
     "Subject": "agent",
-    "Chapter": "7",
+    "Chapter": "8",
     "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
@@ -386,6 +392,18 @@
   {
     "Subject": "mcq",
     "Chapter": "4",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "DevelopmentOfficer",
+    "Chapter": "1",
+    "ChapterName": "IRDA IC38 परीक्षा तैयारी सामग्री — अपने प्रशिक्षुओं के साथ साझा करें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/irda-ic38.html"
+  },
+  {
+    "Subject": "DevelopmentOfficer",
+    "Chapter": "2",
     "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   }
