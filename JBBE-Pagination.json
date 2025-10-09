@@ -212,8 +212,8 @@
   {
     "Subject": "role",
     "Chapter": 2,
-    "ChapterName": "For Field Officers: Recruitment, performance & digital supervision",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+    "ChapterName": "Life Insurance Field Officer Resources — Training, Guides & Tools",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/field-officer-resources.html"
   },
   {
     "Subject": "role",
@@ -230,36 +230,42 @@
   {
     "Subject": "agent",
     "Chapter": 2,
+    "ChapterName": "IC38 Mock Tests — Practice Series for Insurance Agent Exam",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/irda-ic38-mock-tests.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": 3,
     "ChapterName": "Death Claim Guidance: Forms, required documents and key precautions",
     "ChapterUrl": "https://en.jeevanbimabazaar.com/p/lic-death-claim.html"
   },
   {
     "Subject": "agent",
-    "Chapter": 3,
+    "Chapter": 4,
     "ChapterName": "Digital Marketing: Grow insurance business with online strategies",
     "ChapterUrl": "https://en.jeevanbimabazaar.com/p/digital-marketing-for-insurance-agents.html"
   },
   {
     "Subject": "agent",
-    "Chapter": 4,
+    "Chapter": 5,
     "ChapterName": "FAQs: Common queries on life insurance and agency work",
     "ChapterUrl": "https://en.jeevanbimabazaar.com/p/life-insurance-faqs.html"
   },
   {
     "Subject": "agent",
-    "Chapter": 5,
+    "Chapter": 6,
     "ChapterName": "LIC Riders: Detailed overview of all LIC riders and benefits",
     "ChapterUrl": "https://en.jeevanbimabazaar.com/p/lic-in-force-policies.html"
   },
   {
     "Subject": "agent",
-    "Chapter": 6,
+    "Chapter": 7,
     "ChapterName": "LIC Survey Form: Use survey forms to generate quality prospects",
     "ChapterUrl": "https://en.jeevanbimabazaar.com/p/survey-form.html"
   },
   {
     "Subject": "agent",
-    "Chapter": 7,
+    "Chapter": 8,
     "ChapterName": "Next part of this course is coming soon...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
@@ -386,6 +392,18 @@
   {
     "Subject": "mcq",
     "Chapter": 4,
+    "ChapterName": "Next part of this course is coming soon...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "DevelopmentOfficer",
+    "Chapter": 1,
+    "ChapterName": "IRDA IC38 Exam Preparation Resources — Share with Your Trainees",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/irda-ic38-mock-tests.html"
+  },
+  {
+    "Subject": "DevelopmentOfficer",
+    "Chapter": 2,
     "ChapterName": "Next part of this course is coming soon...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   }
