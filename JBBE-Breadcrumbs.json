@@ -161,9 +161,16 @@
     "mainTitle": "Common Questions About LIC Proposal Form"
   },
   {
+    "slug": "healthMcq-ic38",
+    "parentSlug": "home",
+    "postTitle": "Health Mock Test",
+    "posturl": "https://en.jeevanbimabazaar.com/p/ic38-health-insurance-exam-practice.html",
+    "mainTitle": "IC38 Mock Test: Health Insurance Agency License Applicants"
+  },
+  {
     "slug": "healthMcq1",
-    "parentSlug": "mcq-ic38",
-    "postTitle": "Mock Test Set 1",
+    "parentSlug": "healthMcq-ic38",
+    "postTitle": "Health Mock Test Set 1",
     "posturl": "https://en.jeevanbimabazaar.com/2025/10/irda-ic38-health-insurance-mock-test-1.html",
     "mainTitle": "IRDA IC38 Mock Test 1: Health Insurance Agent Exam Preparation"
   },
@@ -320,5 +327,12 @@
     "postTitle": "Chapter 9",
     "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-nominee.html",
     "mainTitle": "Nominee Related Information for LIC Survey Form"
+  },
+  {
+    "slug": "survey-form-post10",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 10",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/survey-form-neft-related-questions.html",
+    "mainTitle": "NEFT Update Related Information for LIC Survey Form"
   }
 ]
