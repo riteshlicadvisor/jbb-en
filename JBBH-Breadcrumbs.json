@@ -252,20 +252,6 @@
     "mainTitle": "एलआईसी एजेंट के लिए सर्वे फॉर्म"
   },
   {
-    "slug": "survey-form-post10",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 10",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-mrityu-dawa.html",
-    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: डेथ क्लेम प्रश्न"
-  },
-  {
-    "slug": "survey-form-post11",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 11",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-pta-parivartan.html",
-    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: पता परिवर्तन प्रश्न"
-  },
-  {
     "slug": "survey-form-post2",
     "parentSlug": "survey-form",
     "postTitle": "अध्याय 2",
@@ -325,6 +311,20 @@
     "slug": "survey-form-post10",
     "parentSlug": "survey-form",
     "postTitle": "अध्याय 10",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-mrityu-dawa.html",
+    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: डेथ क्लेम प्रश्न"
+  },
+  {
+    "slug": "survey-form-post11",
+    "parentSlug": "survey-form",
+    "postTitle": "अध्याय 11",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-pta-parivartan.html",
+    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: पता परिवर्तन प्रश्न"
+  },
+  {
+    "slug": "survey-form-post12",
+    "parentSlug": "survey-form",
+    "postTitle": "अध्याय 12",
     "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-survey-form-neft-ki-jankari.html",
     "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: नेफ्ट विवरण"
   },
