@@ -259,20 +259,6 @@
     "mainTitle": "Download PDF file of LIC Survey Form"
   },
   {
-    "slug": "survey-form-post10",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 10",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-claim.html",
-    "mainTitle": "Death Claim Related Information for LIC Survey Form"
-  },
-  {
-    "slug": "survey-form-post11",
-    "parentSlug": "survey-form",
-    "postTitle": "Chapter 11",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-address-change.html",
-    "mainTitle": "Address Change Related Information for LIC Survey Form"
-  },
-  {
     "slug": "survey-form-post2",
     "parentSlug": "survey-form",
     "postTitle": "Chapter 2",
@@ -332,6 +318,20 @@
     "slug": "survey-form-post10",
     "parentSlug": "survey-form",
     "postTitle": "Chapter 10",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-claim.html",
+    "mainTitle": "Death Claim Related Information for LIC Survey Form"
+  },
+  {
+    "slug": "survey-form-post11",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 11",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/08/lic-survey-form-address-change.html",
+    "mainTitle": "Address Change Related Information for LIC Survey Form"
+  },
+  {
+    "slug": "survey-form-post12",
+    "parentSlug": "survey-form",
+    "postTitle": "Chapter 12",
     "posturl": "https://en.jeevanbimabazaar.com/2025/10/survey-form-neft-related-questions.html",
     "mainTitle": "NEFT Update Related Information for LIC Survey Form"
   }
