@@ -334,5 +334,26 @@
     "postTitle": "होम",
     "posturl": "https://www.jeevanbimabazaar.com/",
     "mainTitle": "Home"
+  },
+  {
+    "slug": "news",
+    "parentSlug": "होम",
+    "postTitle": "समाचार",
+    "posturl": "https://www.jeevanbimabazaar.com/search/label/news?max-results=5",
+    "mainTitle": "समाचार"
+  },
+  {
+    "slug": "irda",
+    "parentSlug": "होम",
+    "postTitle": "आईआरडीए समाचार",
+    "posturl": "https://www.jeevanbimabazaar.com/search/label/irda?max-results=5",
+    "mainTitle": "आईआरडीए समाचार"
+  },
+  {
+    "slug": "irda23102025",
+    "parentSlug": "irda",
+    "postTitle": "आईआरडीए समाचार",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/10/irdai-insurance-fraud-guidelines.html",
+    "mainTitle": "IRDAI ने बीमा धोखाधड़ी रोकने के लिए निर्देश जारी किए"
   }
 ]
