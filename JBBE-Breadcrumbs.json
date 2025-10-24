@@ -334,5 +334,26 @@
     "postTitle": "Chapter 12",
     "posturl": "https://en.jeevanbimabazaar.com/2025/10/survey-form-neft-related-questions.html",
     "mainTitle": "NEFT Update Related Information for LIC Survey Form"
+  },
+  {
+    "slug": "news",
+    "parentSlug": "home",
+    "postTitle": "News",
+    "posturl": "https://en.jeevanbimabazaar.com/search/label/news?max-results=5",
+    "mainTitle": "Normal News"
+  },
+  {
+    "slug": "irda",
+    "parentSlug": "home",
+    "postTitle": "IRDA News",
+    "posturl": "https://en.jeevanbimabazaar.com/search/label/irda?max-results=5",
+    "mainTitle": "IRDA News"
+  },
+  {
+    "slug": "irda23102025",
+    "parentSlug": "irda",
+    "postTitle": "Oct 23, 2025",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/irdai-takes-strict-stance.html",
+    "mainTitle": "IRDAI Takes Strict Stance on Insurance Fraud"
   }
 ]
