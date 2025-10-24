@@ -355,5 +355,19 @@
     "postTitle": "Oct 23, 2025",
     "posturl": "https://en.jeevanbimabazaar.com/2025/10/irdai-takes-strict-stance.html",
     "mainTitle": "IRDAI Takes Strict Stance on Insurance Fraud"
+  },
+  {
+    "slug": "insurance-awareness",
+    "parentSlug": "home",
+    "postTitle": "Insurance Awareness",
+    "posturl": "https://en.jeevanbimabazaar.com/p/insurance-awareness.html",
+    "mainTitle": "Insurance Awareness Articles | Learn & Stay Protected"
+  },
+  {
+    "slug": "insurance-awareness1",
+    "parentSlug": "insurance-awareness",
+    "postTitle": "Free Look Period",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/free-look-period-insurance-india.html",
+    "mainTitle": "Free Look Period in Life & Health Insurance"
   }
 ]
