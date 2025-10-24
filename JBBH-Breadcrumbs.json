@@ -355,5 +355,19 @@
     "postTitle": "Oct 23, 2025",
     "posturl": "https://www.jeevanbimabazaar.com/2025/10/irdai-insurance-fraud-guidelines.html",
     "mainTitle": "IRDAI ने बीमा धोखाधड़ी रोकने के लिए निर्देश जारी किए"
+  },
+  {
+    "slug": "insurance-awareness",
+    "parentSlug": "होम",
+    "postTitle": "बीमा जागरूकता",
+    "posturl": "https://www.jeevanbimabazaar.com/p/insurance-awareness.html",
+    "mainTitle": "बीमा जागरूकता | जीवन बीमा से जुड़ी जरूरी जानकारी"
+  },
+  {
+    "slug": "insurance-awareness1",
+    "parentSlug": "insurance-awareness",
+    "postTitle": "फ्री लुक पीरियड",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/10/free-look-period.html",
+    "mainTitle": "गलत इंश्योरेंस पॉलिसी से छुटकारा पाने का सबसे आसान तरीका"
   }
 ]
