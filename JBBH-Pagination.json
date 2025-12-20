@@ -1,387 +1,482 @@
 [
   {
-    "slug": "agency-info",
-    "parentSlug": "होम",
-    "postTitle": "एजेंसी इनफार्मेशन",
-    "posturl": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-information.html",
-    "mainTitle": "जीवन बीमा एजेंसी से जुड़ी महत्वपूर्ण जानकारियां"
+    "Subject": "agency-info",
+    "Chapter": "1",
+    "ChapterName": "एलआईसी रूरल करियर एजेंट की सम्पूर्ण जानकारी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2021/10/lic-rca-information.html"
   },
   {
-    "slug": "agency-info-post1",
-    "parentSlug": "agency-info",
-    "postTitle": "अध्याय 1",
-    "posturl": "https://www.jeevanbimabazaar.com/2021/10/lic-rca-information.html",
-    "mainTitle": "एलआईसी रूरल करियर एजेंट की सम्पूर्ण जानकारी"
+    "Subject": "agency-info",
+    "Chapter": "2",
+    "ChapterName": "एलआईसी बीमा सखी योजना: महिलाओं का आर्थिक सशक्तिकरण",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/lic-bima-sakhi-ke-fayde.html"
   },
   {
-    "slug": "agency-info-post2",
-    "parentSlug": "agency-info",
-    "postTitle": "अध्याय 2",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/12/lic-bima-sakhi-ke-fayde.html",
-    "mainTitle": "एलआईसी बीमा सखी योजना: महिलाओं का आर्थिक सशक्तिकरण"
+    "Subject": "agency-info",
+    "Chapter": "3",
+    "ChapterName": "अभिकर्ता बनने के लिए करें सबसे अच्छी बीमा कंपनी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2022/02/lic-agency.html"
   },
   {
-    "slug": "agency-info-post3",
-    "parentSlug": "agency-info",
-    "postTitle": "अध्याय 3",
-    "posturl": "https://www.jeevanbimabazaar.com/2022/02/lic-agency.html",
-    "mainTitle": "अभिकर्ता बनने के लिए करें सबसे अच्छी बीमा कंपनी"
+    "Subject": "agency-info",
+    "Chapter": "4",
+    "ChapterName": "एलआईसी एजेंट बनने की सम्पूर्ण जानकारी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2022/02/kaise-bane-lic-agent.html"
   },
   {
-    "slug": "agency-info-post4",
-    "parentSlug": "agency-info",
-    "postTitle": "अध्याय 4",
-    "posturl": "https://www.jeevanbimabazaar.com/2022/02/kaise-bane-lic-agent.html",
-    "mainTitle": "एलआईसी एजेंट बनने की सम्पूर्ण जानकारी"
+    "Subject": "agency-info",
+    "Chapter": "5",
+    "ChapterName": "जीवन बीमा एजेंट के कार्य",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2023/06/lic-agent-responsibility.html"
   },
   {
-    "slug": "agency-info-post5",
-    "parentSlug": "agency-info",
-    "postTitle": "अध्याय 5",
-    "posturl": "https://www.jeevanbimabazaar.com/2023/06/lic-agent-responsibility.html",
-    "mainTitle": "जीवन बीमा एजेंट के कार्य"
+    "Subject": "agency-info",
+    "Chapter": "6",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "bimaAgency",
-    "parentSlug": "होम",
-    "postTitle": "बीमा एजेंसी",
-    "posturl": "https://www.jeevanbimabazaar.com/p/bima-agency-sachhi-samaj-seva.html",
-    "mainTitle": "बीमा एजेंसी: सिर्फ कारोबार ही नहीं, बल्कि सच्ची समाज सेवा है"
+    "Subject": "agent",
+    "Chapter": "1",
+    "ChapterName": "एजेंसी की जानकारी: प्रकार, प्रक्रिया और एजेंट की जिम्मेदारियाँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/life-insurance-agency-information.html"
   },
   {
-    "slug": "bimaAgency1",
-    "parentSlug": "bimaAgency",
-    "postTitle": "अध्याय 1",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/09/jeevan-bima-agent-safalta-tips.html",
-    "mainTitle": "जीवन बीमा बिक्री में सफलता के 4 अटूट स्तंभ"
+    "Subject": "agent",
+    "Chapter": "2",
+    "ChapterName": "IRDA IC38 — सम्पूर्ण परीक्षा तैयारी हब",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/irda-ic38.html"
   },
   {
-    "slug": "digitalMarketing",
-    "parentSlug": "होम",
-    "postTitle": "डिजिटल मार्केटिंग",
-    "posturl": "https://www.jeevanbimabazaar.com/p/bima-agent-ke-liye-digital-marketing.html",
-    "mainTitle": "बीमा एजेंटों के लिए डिजिटल मार्केटिंग"
+    "Subject": "agent",
+    "Chapter": "3",
+    "ChapterName": "डेथ क्लेम की जानकारी: फॉर्म, दस्तावेज़ और आवश्यक सावधानियाँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html"
   },
   {
-    "slug": "digitalMarketingPost1",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 1",
-    "posturl": "https://www.jeevanbimabazaar.com/2023/05/digital-platform-life-insurance-agent-success.html",
-    "mainTitle": "डिजिटल प्लेटफॉर्म पर बीमा एजेंट के लिए चुनौतियां एवं समाधान"
+    "Subject": "agent",
+    "Chapter": "4",
+    "ChapterName": "डिजिटल मार्केटिंग: ऑनलाइन माध्यम से कारोबार बढ़ाने की रणनीतियाँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/bima-agent-ke-liye-digital-marketing.html"
   },
   {
-    "slug": "digitalMarketingPost2",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 2",
-    "posturl": "https://www.jeevanbimabazaar.com/2023/05/social-media-tips-life-insurance-agents.html",
-    "mainTitle": "जीवन बीमा एजेंटों के लिए सोशल मीडिया: लाभकारी या हानिकारक?"
+    "Subject": "agent",
+    "Chapter": "5",
+    "ChapterName": "अक्सर पूछे जाने वाले प्रश्न: बीमा और एजेंट कार्य से जुड़े सामान्य सवाल",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html"
   },
   {
-    "slug": "digitalMarketingPost3",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 3",
-    "posturl": "https://www.jeevanbimabazaar.com/2023/05/life-insurance-agent-social-media-usage.html",
-    "mainTitle": "जीवन बीमा एजेंट सोशल मीडिया का उपयोग कैसे करें?"
+    "Subject": "agent",
+    "Chapter": "6",
+    "ChapterName": "एलआईसी के राइडर्स: सभी राइडर्स और उनकी मुख्य विशेषताएँ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-in-force-policy.html"
   },
   {
-    "slug": "digitalMarketingPost4",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 4",
-    "posturl": "https://www.jeevanbimabazaar.com/2023/05/faqs-social-media-importance-lic-business.html",
-    "mainTitle": "जीवन बीमा व्यवसाय में सोशल मीडिया का महत्व"
+    "Subject": "agent",
+    "Chapter": "7",
+    "ChapterName": "एलआईसी सर्वे फॉर्म: सर्वे फॉर्म से नए प्रॉस्पेक्ट्स बढ़ाने के उपाय",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/survey-form.html"
   },
   {
-    "slug": "digitalMarketingPost5",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 5",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/04/bima-agent-social-media-clients.html",
-    "mainTitle": "बीमा एजेंट सोशल मीडिया से कैसे बढ़ाएं ग्राहक नेटवर्क"
+    "Subject": "agent",
+    "Chapter": "8",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "digitalMarketingPost6",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 6",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/04/agents-social-media-selection.html",
-    "mainTitle": "एजेंट्स के लिए सोशल मीडिया का स्मार्ट चयन"
+    "Subject": "bimaAgency",
+    "Chapter": "1",
+    "ChapterName": "जीवन बीमा बिक्री में सफलता के 4 अटूट स्तंभ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/09/jeevan-bima-agent-safalta-tips.html"
   },
   {
-    "slug": "digitalMarketingPost7",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 7",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/04/bima-sale-social-media.html",
-    "mainTitle": "सोशल मीडिया से बड़ा बीमा बेचने की कला"
+    "Subject": "bimaAgency",
+    "Chapter": "2",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "digitalMarketingPost8",
-    "parentSlug": "digitalMarketing",
-    "postTitle": "अध्याय 8",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/04/smart-client-handling.html",
-    "mainTitle": "नकारात्मक ग्राहकों को भी बनाएं अपने बीमा ग्राहक"
+    "Subject": "deathClaim",
+    "Chapter": "1",
+    "ChapterName": "एलआईसी मृत्यु दावा एप्लीकेशन",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/10/lic-mrityu-dawa-awedan.html"
   },
   {
-    "slug": "faqs",
-    "parentSlug": "होम",
-    "postTitle": "एलआईसी FAQs",
-    "posturl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html",
-    "mainTitle": "जीवन बीमा कारोबार से जुड़े अक्सर पूछे जाने वाले प्रश्न"
+    "Subject": "deathClaim",
+    "Chapter": "2",
+    "ChapterName": "जीवन बीमा पॉलिसी में दस्तावेजों की जांच एवं सुधार",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/10/jeevan-bima-dastawez-sudhar.html"
   },
   {
-    "slug": "faqs-post1",
-    "parentSlug": "faqs",
-    "postTitle": "अध्याय 1",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/10/bima-policy-faq.html",
-    "mainTitle": "जीवन बीमा से जुड़े आम सवालों के जवाब"
+    "Subject": "deathClaim",
+    "Chapter": "3",
+    "ChapterName": "बीमा पॉलिसियों के मृत्यु दावा सूचना में समस्या और समाधान",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/11/mrityu-dawa-samasya-samadhan.html"
   },
   {
-    "slug": "faqs-post2",
-    "parentSlug": "faqs",
-    "postTitle": "अध्याय 2",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/10/life-insurance-claim-process-faq.html",
-    "mainTitle": "मृत्यु दावा प्रक्रिया पर आधारित FAQs"
+    "Subject": "deathClaim",
+    "Chapter": "4",
+    "ChapterName": "प्रीमियम बकाया हो तो भी मृत्यु दावा लें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/11/mritudava-premium-na-bharne-par.html"
   },
   {
-    "slug": "faqs-post3",
-    "parentSlug": "faqs",
-    "postTitle": "अध्याय 3",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/12/jeevan-bima-agency-faqs.html",
-    "mainTitle": "जीवन बीमा एजेंसी से जुड़े ज़रूरी सवाल-जवाब"
+    "Subject": "deathClaim",
+    "Chapter": "5",
+    "ChapterName": "गलत बीमा विक्री से एजेंसी बचाव के उपाय",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/insurance-agency-termination.html"
   },
   {
-    "slug": "faqs-post4",
-    "parentSlug": "faqs",
-    "postTitle": "अध्याय 4",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/12/digital-era-insurance-agents-faq.html",
-    "mainTitle": "बीमा एजेंसी डिजिटल मार्केटिंग पर सवाल-जवाब"
+    "Subject": "deathClaim",
+    "Chapter": "6",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3783A भरने की विधि",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-death-claim-form-3783a.html"
   },
   {
-    "slug": "faqs-post5",
-    "parentSlug": "faqs",
-    "postTitle": "अध्याय 5",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/12/lic-proposal-form-guide.html",
-    "mainTitle": "एलआईसी प्रपोजल फॉर्म से जुड़े सवाल-जवाब"
+    "Subject": "deathClaim",
+    "Chapter": "7",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3785 भरने की प्रक्रिया",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-mrutyu-dava-form-3785.html"
   },
   {
-    "slug": "healthMcq-ic38",
-    "parentSlug": "होम",
-    "postTitle": "स्वास्थ्य मॉक टेस्ट",
-    "posturl": "https://www.jeevanbimabazaar.com/p/ic38-health-insurance-mock-test.html",
-    "mainTitle": "IC38 हेल्थ इंश्योरेंस एजेंट लाइसेंस एग्जाम: फ्री मॉक टेस्ट"
+    "Subject": "deathClaim",
+    "Chapter": "8",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3816 कैसे भरें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-form-3816-kaise-bhare.html"
   },
   {
-    "slug": "healthMcq1",
-    "parentSlug": "healthMcq-ic38",
-    "postTitle": "स्वास्थ्य मॉक टेस्ट सेट 1",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/irda-ic38-mock-test-set-1-hindi.html",
-    "mainTitle": "IRDA IC38 मॉक टेस्ट सेट 1 - स्वास्थ्य बीमा एजेंट परीक्षा की हिंदी तैयारी"
+    "Subject": "deathClaim",
+    "Chapter": "9",
+    "ChapterName": "एलआईसी मृत्यु दावा फॉर्म 3784 कैसे भरें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-mrityu-dava-form-3784.html"
   },
   {
-    "slug": "licInforcePlan",
-    "parentSlug": "होम",
-    "postTitle": "एलआईसी के इनफोर्स प्लान",
-    "posturl": "https://www.jeevanbimabazaar.com/p/lic-in-force-policy.html",
-    "mainTitle": "एलआईसी की इन-फोर्स पॉलिसियों के बारे में जानकारी"
+    "Subject": "deathClaim",
+    "Chapter": "10",
+    "ChapterName": "एलआईसी फॉर्म संख्या 3788 कैसे भरें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/05/lic-form-3788-kaise-bhare.html"
   },
   {
-    "slug": "licInforcePlan",
-    "parentSlug": "licInforcePlan",
-    "postTitle": "अध्याय 1",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/04/lic-riders-full-details.html",
-    "mainTitle": "पूरा सच एलआईसी राइडर्स का: हर लाभ, हर विकल्प विस्तार से"
+    "Subject": "deathClaim",
+    "Chapter": "11",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "mcq-ic38",
-    "parentSlug": "होम",
-    "postTitle": "IRDA IC38 ",
-    "posturl": "https://www.jeevanbimabazaar.com/p/irda-ic38.html",
-    "mainTitle": "IRDA IC38 — सम्पूर्ण परीक्षा तैयारी हब"
+    "Subject": "DevelopmentOfficer",
+    "Chapter": "1",
+    "ChapterName": "IRDA IC38 परीक्षा तैयारी सामग्री — अपने प्रशिक्षुओं के साथ साझा करें",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/irda-ic38.html"
   },
   {
-    "slug": "mcq1",
-    "parentSlug": "mcq-ic38",
-    "postTitle": "मॉक टेस्ट सेट-1",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-1.html",
-    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-1 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+    "Subject": "DevelopmentOfficer",
+    "Chapter": "2",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "mcq2",
-    "parentSlug": "mcq-ic38",
-    "postTitle": "मॉक टेस्ट सेट-2",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-2.html",
-    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-2 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+    "Subject": "digitalMarketing",
+    "Chapter": "1",
+    "ChapterName": "डिजिटल प्लेटफॉर्म पर बीमा एजेंट के लिए चुनौतियां एवं समाधान",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2023/05/digital-platform-life-insurance-agent-success.html"
   },
   {
-    "slug": "mcq3",
-    "parentSlug": "mcq-ic38",
-    "postTitle": "मॉक टेस्ट सेट-3",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-3.html",
-    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-3 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+    "Subject": "digitalMarketing",
+    "Chapter": "2",
+    "ChapterName": "जीवन बीमा एजेंटों के लिए सोशल मीडिया: लाभकारी या हानिकारक?",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2023/05/social-media-tips-life-insurance-agents.html"
   },
   {
-    "slug": "mcq4",
-    "parentSlug": "mcq-ic38",
-    "postTitle": "मॉक टेस्ट सेट-4",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-4.html",
-    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-4 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+    "Subject": "digitalMarketing",
+    "Chapter": "3",
+    "ChapterName": "जीवन बीमा एजेंट सोशल मीडिया का उपयोग कैसे करें?",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2023/05/life-insurance-agent-social-media-usage.html"
   },
   {
-    "slug": "mcq5",
-    "parentSlug": "mcq-ic38",
-    "postTitle": "मॉक टेस्ट सेट-5",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-5.html",
-    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-5 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+    "Subject": "digitalMarketing",
+    "Chapter": "4",
+    "ChapterName": "जीवन बीमा व्यवसाय में सोशल मीडिया का महत्व",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2023/05/faqs-social-media-importance-lic-business.html"
   },
   {
-    "slug": "mcq6",
-    "parentSlug": "mcq-ic38",
-    "postTitle": "मॉक टेस्ट सेट-6",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-6.html",
-    "mainTitle": "LIC एजेंट मॉक टेस्ट सेट-6 | IRDA परीक्षा तैयारी क्विज़ हिंदी में"
+    "Subject": "digitalMarketing",
+    "Chapter": "5",
+    "ChapterName": "बीमा एजेंट सोशल मीडिया से कैसे बढ़ाएं ग्राहक नेटवर्क",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/04/bima-agent-social-media-clients.html"
   },
   {
-    "slug": "survey-form",
-    "parentSlug": "होम",
-    "postTitle": "सर्वे फॉर्म",
-    "posturl": "https://www.jeevanbimabazaar.com/p/survey-form.html",
-    "mainTitle": "एलआईसी एजेंटों के लिए सर्वे फॉर्म का पूरा कोर्स"
+    "Subject": "digitalMarketing",
+    "Chapter": "6",
+    "ChapterName": "एजेंट्स के लिए सोशल मीडिया का स्मार्ट चयन",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/04/agents-social-media-selection.html"
   },
   {
-    "slug": "survey-form-post1",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 1",
-    "posturl": "https://www.jeevanbimabazaar.com/2020/05/best-prospecting-tips.html",
-    "mainTitle": "एलआईसी एजेंट के लिए सर्वे फॉर्म"
+    "Subject": "digitalMarketing",
+    "Chapter": "7",
+    "ChapterName": "सोशल मीडिया से बड़ा बीमा बेचने की कला",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/04/bima-sale-social-media.html"
   },
   {
-    "slug": "survey-form-post2",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 2",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/09/jeevan-bima-agency-ki-chunauti.html",
-    "mainTitle": "जीवन बीमा एजेंसी में चुनौतियां एवं समाधान"
+    "Subject": "digitalMarketing",
+    "Chapter": "8",
+    "ChapterName": "नकारात्मक ग्राहकों को भी बनाएं अपने बीमा ग्राहक",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/04/smart-client-handling.html"
   },
   {
-    "slug": "survey-form-post3",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 3",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-ka-survey-form.html",
-    "mainTitle": "उद्देश्य, लाभ और ग्राहक संपर्क के तरीके"
+    "Subject": "faqs",
+    "Chapter": "1",
+    "ChapterName": "जीवन बीमा से जुड़े आम सवालों के जवाब",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/10/bima-policy-faq.html"
   },
   {
-    "slug": "survey-form-post4",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 4",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-survey-kaise-start-karen.html",
-    "mainTitle": "सर्वे प्रक्रिया की पूरी जानकारी"
+    "Subject": "faqs",
+    "Chapter": "2",
+    "ChapterName": "मृत्यु दावा प्रक्रिया पर आधारित FAQs",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/10/life-insurance-claim-process-faq.html"
   },
   {
-    "slug": "survey-form-post5",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 5",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/09/anjan-logon-se-batchit-kaise-kare.html",
-    "mainTitle": "अनजान लोगों से बातचीत की प्रभावी शुरुआत"
+    "Subject": "faqs",
+    "Chapter": "3",
+    "ChapterName": "जीवन बीमा एजेंसी से जुड़े ज़रूरी सवाल-जवाब",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/jeevan-bima-agency-faqs.html"
   },
   {
-    "slug": "survey-form-post6",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 6",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-ki-profile.html",
-    "mainTitle": "एलआईसी की प्रोफाइल से बीमा बिक्री बढ़ाएं"
+    "Subject": "faqs",
+    "Chapter": "4",
+    "ChapterName": "बीमा एजेंसी डिजिटल मार्केटिंग पर सवाल-जवाब",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/digital-era-insurance-agents-faq.html"
   },
   {
-    "slug": "survey-form-post7",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 7",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/09/lic-survey-form-success-tips-one.html",
-    "mainTitle": "LIC सर्वे फॉर्म से बने सफल बीमा एजेंट | भाग 1"
+    "Subject": "faqs",
+    "Chapter": "5",
+    "ChapterName": "एलआईसी प्रपोजल फॉर्म से जुड़े सवाल-जवाब",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/lic-proposal-form-guide.html"
   },
   {
-    "slug": "survey-form-post8",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 8",
-    "posturl": "https://www.jeevanbimabazaar.com/2024/10/lic-survey-form-2.html",
-    "mainTitle": "बीमा कारोबार में ग्राहक जीतने की कला | सर्वे फॉर्म भाग 2"
+    "Subject": "faqs",
+    "Chapter": "6",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "survey-form-post9",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 9",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-nominee.html",
-    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: नॉमिनी प्रश्न"
+    "Subject": "healthMcq",
+    "Chapter": 1,
+    "ChapterName": "IRDA IC38 मॉक टेस्ट सेट 1 - स्वास्थ्य बीमा एजेंट परीक्षा की हिंदी तैयारी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/irda-ic38-mock-test-set-1-hindi.html"
   },
   {
-    "slug": "survey-form-post10",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 10",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-mrityu-dawa.html",
-    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: डेथ क्लेम प्रश्न"
+    "Subject": "healthMcq",
+    "Chapter": 2,
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "survey-form-post11",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 11",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-pta-parivartan.html",
-    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: पता परिवर्तन प्रश्न"
+    "Subject": "licInforcePlan",
+    "Chapter": "1",
+    "ChapterName": "पूरा सच एलआईसी राइडर्स का: हर लाभ, हर विकल्प विस्तार से",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/04/lic-riders-full-details.html"
   },
   {
-    "slug": "survey-form-post12",
-    "parentSlug": "survey-form",
-    "postTitle": "अध्याय 12",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/lic-survey-form-neft-ki-jankari.html",
-    "mainTitle": "एलआईसी सर्वे फॉर्म की जानकारी: नेफ्ट विवरण"
+    "Subject": "licInforcePlan",
+    "Chapter": "2",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "होम",
-    "parentSlug": "-",
-    "postTitle": "होम",
-    "posturl": "https://www.jeevanbimabazaar.com/",
-    "mainTitle": "Home"
+    "Subject": "mcq",
+    "Chapter": "1",
+    "ChapterName": "LIC एजेंट मॉक टेस्ट सेट-1 | IRDA परीक्षा तैयारी क्विज़ हिंदी में",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-1.html"
   },
   {
-    "slug": "news",
-    "parentSlug": "होम",
-    "postTitle": "समाचार",
-    "posturl": "https://www.jeevanbimabazaar.com/search/label/news?max-results=5",
-    "mainTitle": "समाचार"
+    "Subject": "mcq",
+    "Chapter": "2",
+    "ChapterName": "LIC एजेंट मॉक टेस्ट सेट-2 | IRDA परीक्षा तैयारी क्विज़ हिंदी में",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-2.html"
   },
   {
-    "slug": "irda",
-    "parentSlug": "होम",
-    "postTitle": "आईआरडीए समाचार",
-    "posturl": "https://www.jeevanbimabazaar.com/search/label/irda?max-results=5",
-    "mainTitle": "आईआरडीए समाचार"
+    "Subject": "mcq",
+    "Chapter": "3",
+    "ChapterName": "LIC एजेंट मॉक टेस्ट सेट-3 | IRDA परीक्षा तैयारी क्विज़ हिंदी में",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-3.html"
   },
   {
-    "slug": "irda23102025",
-    "parentSlug": "irda",
-    "postTitle": "Oct 23, 2025",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/irdai-insurance-fraud-guidelines.html",
-    "mainTitle": "IRDAI ने बीमा धोखाधड़ी रोकने के लिए निर्देश जारी किए"
+    "Subject": "mcq",
+    "Chapter": "4",
+    "ChapterName": "LIC एजेंट मॉक टेस्ट सेट-4 | IRDA परीक्षा तैयारी क्विज़ हिंदी में",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-4.html"
   },
   {
-    "slug": "irda21122025",
-    "parentSlug": "irda",
-    "postTitle": "Dec 21, 2025",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/12/new-insurance-bill-2025.html",
-    "mainTitle": "New Insurance Bill 2025: किसे मिलेगा असली फायदा"
+    "Subject": "mcq",
+    "Chapter": "5",
+    "ChapterName": "LIC एजेंट मॉक टेस्ट सेट-5 | IRDA परीक्षा तैयारी क्विज़ हिंदी में",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-5.html"
   },
   {
-    "slug": "insurance-awareness",
-    "parentSlug": "होम",
-    "postTitle": "बीमा जागरूकता",
-    "posturl": "https://www.jeevanbimabazaar.com/p/insurance-awareness.html",
-    "mainTitle": "बीमा जागरूकता | जीवन बीमा से जुड़ी जरूरी जानकारी"
+    "Subject": "mcq",
+    "Chapter": "6",
+    "ChapterName": "LIC एजेंट मॉक टेस्ट सेट-6 | IRDA परीक्षा तैयारी क्विज़ हिंदी में",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/lic-agent-mock-test-set-6.html"
   },
   {
-    "slug": "insurance-awareness1",
-    "parentSlug": "insurance-awareness",
-    "postTitle": "फ्री लुक पीरियड",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/10/free-look-period.html",
-    "mainTitle": "गलत इंश्योरेंस पॉलिसी से छुटकारा पाने का सबसे आसान तरीका"
+    "Subject": "mcq",
+    "Chapter": "7",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "slug": "insurance-awareness2",
-    "parentSlug": "insurance-awareness",
-    "postTitle": "सर्वश्रेष्ठ बीमा कंपनी",
-    "posturl": "https://www.jeevanbimabazaar.com/2021/09/best-life-insurance-company.html",
-    "mainTitle": "भारत की सर्वश्रेष्ठ जीवन बीमा कंपनी"
+    "Subject": "policyholder",
+    "Chapter": "1",
+    "ChapterName": "डेथ क्लेम जानकारी: प्रक्रिया, फॉर्म और आवश्यक दस्तावेज़",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html"
+  },
+  {
+    "Subject": "policyholder",
+    "Chapter": "2",
+    "ChapterName": "अक्सर पूछे जाने वाले प्रश्न: पॉलिसी व सेवाओं से जुड़े संक्षिप्त उत्तर",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-karobar-se-jude-faqs.html"
+  },
+  {
+    "Subject": "policyholder",
+    "Chapter": "3",
+    "ChapterName": "एलआईसी राइडर्स: सभी राइडर्स और उनकी विशेषताओं का विवरण",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/lic-in-force-policy.html"
+  },
+  {
+    "Subject": "policyholder",
+    "Chapter": "4",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "role",
+    "Chapter": "1",
+    "ChapterName": "बीमा एजेंटों के लिए: प्रॉस्पेक्टिंग, आपत्तियाँ, मार्केटिंग और बिक्री टूल्स",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/bima-agent-guide.html"
+  },
+  {
+    "Subject": "role",
+    "Chapter": "2",
+    "ChapterName": "जीवन बीमा फील्ड ऑफिसर संसाधन — प्रशिक्षण, गाइड और टूल्स",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/field-officer-sansadhan.html"
+  },
+  {
+    "Subject": "role",
+    "Chapter": "3",
+    "ChapterName": "पॉलिसीधारकों के लिए: पॉलिसी, प्रीमियम, लोन आदि जानकारी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/policyholders.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "1",
+    "ChapterName": "एलआईसी एजेंट के लिए सर्वे फॉर्म",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2020/05/best-prospecting-tips.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "2",
+    "ChapterName": "जीवन बीमा एजेंसी में चुनौतियां एवं समाधान",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/09/jeevan-bima-agency-ki-chunauti.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "3",
+    "ChapterName": "उद्देश्य, लाभ और ग्राहक संपर्क के तरीके",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/09/lic-ka-survey-form.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "4",
+    "ChapterName": "सर्वे प्रक्रिया की पूरी जानकारी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/09/lic-survey-kaise-start-karen.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "5",
+    "ChapterName": "अनजान लोगों से बातचीत की प्रभावी शुरुआत",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/09/anjan-logon-se-batchit-kaise-kare.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "6",
+    "ChapterName": "एलआईसी की प्रोफाइल से बीमा बिक्री बढ़ाएं",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/09/lic-ki-profile.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "7",
+    "ChapterName": "LIC सर्वे फॉर्म से बने सफल बीमा एजेंट | भाग 1",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/09/lic-survey-form-success-tips-one.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "8",
+    "ChapterName": "बीमा कारोबार में ग्राहक जीतने की कला | सर्वे फॉर्म भाग 2",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/10/lic-survey-form-2.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "9",
+    "ChapterName": "एलआईसी सर्वे फॉर्म की जानकारी: नॉमिनी प्रश्न",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-nominee.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "10",
+    "ChapterName": "एलआईसी सर्वे फॉर्म की जानकारी: डेथ क्लेम प्रश्न",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-mrityu-dawa.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "11",
+    "ChapterName": "एलआईसी सर्वे फॉर्म की जानकारी: पता परिवर्तन प्रश्न",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/08/lic-survey-form-pta-parivartan.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "12",
+    "ChapterName": "एलआईसी सर्वे फॉर्म की जानकारी: नेफ्ट विवरण",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/lic-survey-form-neft-ki-jankari.html"
+  },
+  {
+    "Subject": "survey-form",
+    "Chapter": "13",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "insurance-awareness",
+    "Chapter": "1",
+    "ChapterName": "भारत की सर्वश्रेष्ठ जीवन बीमा कंपनी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2021/09/best-life-insurance-company.html"
+  },
+  {
+    "Subject": "insurance-awareness",
+    "Chapter": "2",
+    "ChapterName": "गलत इंश्योरेंस पॉलिसी से छुटकारा पाने का सबसे आसान तरीका",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/free-look-period.html"
+  },
+  {
+    "Subject": "insurance-awareness",
+    "Chapter": "3",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "irda-news",
+    "Chapter": "1",
+    "ChapterName": "IRDAI ने बीमा धोखाधड़ी रोकने के लिए निर्देश जारी किए",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/10/irdai-insurance-fraud-guidelines.html"
+  },
+  {
+    "Subject": "irda-news",
+    "Chapter": "2",
+    "ChapterName": "New Insurance Bill 2025: किसे मिलेगा असली फायदा",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/12/new-insurance-bill-2025.html"
+  },
+  {
+    "Subject": "irda-news",
+    "Chapter": "3",
+    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   }
 ]
