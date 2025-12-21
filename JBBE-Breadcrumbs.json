@@ -343,6 +343,13 @@
     "mainTitle": "Normal News"
   },
   {
+    "slug": "news21122025",
+    "parentSlug": "news",
+    "postTitle": "Dec 21, 2025",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/12/new-insurance-bill-2025.html",
+    "mainTitle": "New Insurance Bill 2025 and India’s Insurance Future"
+  },
+  {
     "slug": "irda",
     "parentSlug": "home",
     "postTitle": "IRDA News",
@@ -355,13 +362,6 @@
     "postTitle": "Oct 23, 2025",
     "posturl": "https://en.jeevanbimabazaar.com/2025/10/irdai-takes-strict-stance.html",
     "mainTitle": "IRDAI Takes Strict Stance on Insurance Fraud"
-  },
-  {
-    "slug": "irda21122025",
-    "parentSlug": "irda",
-    "postTitle": "Dec 21, 2025",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/12/new-insurance-bill-2025.html",
-    "mainTitle": "New Insurance Bill 2025 and India’s Insurance Future"
   },
   {
     "slug": "insurance-awareness",
