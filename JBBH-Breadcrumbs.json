@@ -390,5 +390,19 @@
     "postTitle": "सर्वश्रेष्ठ बीमा कंपनी",
     "posturl": "https://www.jeevanbimabazaar.com/2021/09/best-life-insurance-company.html",
     "mainTitle": "भारत की सर्वश्रेष्ठ जीवन बीमा कंपनी"
+  },
+  {
+    "slug": "insurance-info",
+    "parentSlug": "होम",
+    "postTitle": "बीमा की जानकारी",
+    "posturl": "https://www.jeevanbimabazaar.com/p/insurance-information.html",
+    "mainTitle": "Insurance Information"
+  },
+  {
+    "slug": "insurance-info-post1",
+    "parentSlug": "insurance-info",
+    "postTitle": "अध्याय 1",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-udyog-ka-itihas.html",
+    "mainTitle": "बीमा उद्योग का विकास कैसे हुआ? बीमा इतिहास की सुनहरी यात्रा"
   }
 ]
