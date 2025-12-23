@@ -390,5 +390,19 @@
     "postTitle": "Best Insurance Company",
     "posturl": "https://en.jeevanbimabazaar.com/2025/10/best-life-insurance-company.html",
     "mainTitle": "How to Choose the Best Life Insurance Company in India"
+  },
+  {
+    "slug": "insurance-info",
+    "parentSlug": "home",
+    "postTitle": "Insurance Information",
+    "posturl": "https://en.jeevanbimabazaar.com/p/insurance-information.html",
+    "mainTitle": "Insurance Information"
+  },
+  {
+    "slug": "insurance-info-post1",
+    "parentSlug": "insurance-info",
+    "postTitle": "Chapter 1",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/12/insurance-industry-history.html",
+    "mainTitle": "History of the Insurance Industry"
   }
 ]
