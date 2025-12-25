@@ -1,3 +1,7 @@
+
+Folder highlights
+Content organizes LIC agent resources including forms, regulatory files, and links/videos for topics like death claims and survey techniques.
+
 [
   {
     "slug": "agency-info",
@@ -411,5 +415,12 @@
     "postTitle": "Chapter 2",
     "posturl": "https://en.jeevanbimabazaar.com/2025/12/what-is-insurance.html",
     "mainTitle": "What is Insurance? Importance, Types, How It Works and Benefits Explained"
+  },
+  {
+    "slug": "insurance-info-post3",
+    "parentSlug": "insurance-info",
+    "postTitle": "Chapter 3",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/12/insurance-risk-management-guide.html",
+    "mainTitle": "Risk Management and Insurance: Risk Assessment to Protection"
   }
 ]
