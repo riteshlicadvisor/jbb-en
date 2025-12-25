@@ -1,3 +1,7 @@
+
+Folder highlights
+Content organizes LIC agent resources including forms, regulatory files, and links/videos for topics like death claims and survey techniques.
+
 [
   {
     "Subject": "agency-info",
@@ -506,6 +510,12 @@
   {
     "Subject": "insurance-info",
     "Chapter": "3",
+    "ChapterName": "Risk Management and Insurance: Risk Assessment to Protection",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/2025/12/insurance-risk-management-guide.html"
+  },
+  {
+    "Subject": "insurance-info",
+    "Chapter": "4",
     "ChapterName": "Next part of this course is coming soon...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   }
