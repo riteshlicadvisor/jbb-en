@@ -1,3 +1,7 @@
+
+Folder highlights
+Content organizes LIC agent resources including forms, regulatory files, and links/videos for topics like death claims and survey techniques.
+
 [
   {
     "ID": "survey-form",
@@ -278,5 +282,19 @@
     "Size": "38.1 MB",
     "Type": "7 Zip",
     "URL": "https://drive.google.com/uc?export=download&id=1t5BpD04jG2Ft2XSzjK0RKlKLFJFHu2Yq"
+  },
+  {
+    "ID": "insuranceRiskManagementHi",
+    "Name": "बीमा और जोखिम प्रबंधन",
+    "Size": "21 MB",
+    "Type": "7 Zip",
+    "URL": "https://drive.google.com/uc?export=download&id=1WRJvWsuN5P5u4JV2yv_G4ZbBeqks80xe"
+  },
+  {
+    "ID": "insuranceRiskManagementEn",
+    "Name": "Basics of Risk Management",
+    "Size": "20.6 MB",
+    "Type": "7 Zip",
+    "URL": "https://drive.google.com/uc?export=download&id=1v94P7a1c5iu6jsMArmTxGYhlPvuyYcid"
   }
 ]
