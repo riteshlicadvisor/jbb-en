@@ -1,3 +1,7 @@
+
+Folder highlights
+Content organizes LIC agent resources including forms, regulatory files, and links/videos for topics like death claims and survey techniques.
+
 [
   {
     "slug": "agency-info",
@@ -411,5 +415,12 @@
     "postTitle": "अध्याय 2",
     "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-kya-hai-puri-jankari.html",
     "mainTitle": "बीमा की पूरी जानकारी: क्या है, क्यों जरूरी है और कैसे काम करता है"
+  },
+  {
+    "slug": "insurance-info-post3",
+    "parentSlug": "insurance-info",
+    "postTitle": "अध्याय 3",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-mein-jokhim-prabandhan.html",
+    "mainTitle": "जोखिम प्रबंधन और बीमा: जोखिम आकलन से सुरक्षा तक"
   }
 ]
