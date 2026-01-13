@@ -446,5 +446,19 @@
     "postTitle": "अध्याय 4",
     "posturl": "https://www.jeevanbimabazaar.com/2025/12/types-of-insurance-in-india.html",
     "mainTitle": "भारत में ज़रूरी बीमा: कौन-सा बीमा कब और क्यों लें?"
+  },
+  {
+    "slug": "investment-guide",
+    "parentSlug": "होम",
+    "postTitle": "Investment Guide",
+    "posturl": "https://www.jeevanbimabazaar.com/p/jeevan-bima-nivesh-guide.html",
+    "mainTitle": "संपूर्ण निवेश गाइड 2026: बीमा योजनाएं एवं इन्वेस्टमेंट प्लान"
+  },
+  {
+    "slug": "investment-guide1",
+    "parentSlug": "investment-guide",
+    "postTitle": "Tax Saving Plan 2026",
+    "posturl": "https://www.jeevanbimabazaar.com/2026/01/top-lic-plans-tax-saving.html",
+    "mainTitle": "LIC के 3 बेस्ट प्लान जो 80C में टैक्स बचाएंगे और मोटा रिटर्न देंगे"
   }
 ]
