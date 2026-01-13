@@ -446,5 +446,19 @@
     "postTitle": "Chapter 4",
     "posturl": "https://en.jeevanbimabazaar.com/2025/12/types-of-insurance-you-need-in-india.html",
     "mainTitle": "Types of Insurance You Need in India"
+  },
+  {
+    "slug": "investment-guide",
+    "parentSlug": "home",
+    "postTitle": "Investment Guide",
+    "posturl": "https://en.jeevanbimabazaar.com/p/jeevan-bima-nivesh-guide.html",
+    "mainTitle": "Life Insurance Plans & Investment Guide"
+  },
+  {
+    "slug": "investment-guide1",
+    "parentSlug": "investment-guide",
+    "postTitle": "Tax Saving Plan 2026",
+    "posturl": "https://en.jeevanbimabazaar.com/2026/01/best-lic-plans-tax-saving-review.html",
+    "mainTitle": "The Ultimate Guide to Tax Saving & High Returns"
   }
 ]
