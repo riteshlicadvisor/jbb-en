@@ -460,5 +460,19 @@
     "postTitle": "Tax Saving Plan 2026",
     "posturl": "https://en.jeevanbimabazaar.com/2026/01/best-lic-plans-tax-saving-review.html",
     "mainTitle": "The Ultimate Guide to Tax Saving & High Returns"
+  },
+  {
+    "slug": "insurance-agent-tips",
+    "parentSlug": "agency-info",
+    "postTitle": "Agent Success Hub",
+    "posturl": "https://en.jeevanbimabazaar.com/p/insurance-agent-resource-center.html",
+    "mainTitle": "Insurance Agent Resource Center: Sales Strategies, NRI & Wealth Tips"
+  },
+  {
+    "slug": "insurance-agent-tips1",
+    "parentSlug": "insurance-agent-tips",
+    "postTitle": "Hit JFM Targets",
+    "posturl": "https://en.jeevanbimabazaar.com/2026/01/jfm-insurance-target-strategy-nri-guide.html",
+    "mainTitle": "JFM 2026: 5 Strategies to Hit 100% Insurance Target"
   }
 ]
