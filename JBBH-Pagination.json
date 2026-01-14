@@ -1,41 +1,5 @@
 [
   {
-    "Subject": "agency-info",
-    "Chapter": "1",
-    "ChapterName": "एलआईसी रूरल करियर एजेंट की सम्पूर्ण जानकारी",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/2021/10/lic-rca-information.html"
-  },
-  {
-    "Subject": "agency-info",
-    "Chapter": "2",
-    "ChapterName": "एलआईसी बीमा सखी योजना: महिलाओं का आर्थिक सशक्तिकरण",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/lic-bima-sakhi-ke-fayde.html"
-  },
-  {
-    "Subject": "agency-info",
-    "Chapter": "3",
-    "ChapterName": "अभिकर्ता बनने के लिए करें सबसे अच्छी बीमा कंपनी",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/2022/02/lic-agency.html"
-  },
-  {
-    "Subject": "agency-info",
-    "Chapter": "4",
-    "ChapterName": "एलआईसी एजेंट बनने की सम्पूर्ण जानकारी",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/2022/02/kaise-bane-lic-agent.html"
-  },
-  {
-    "Subject": "agency-info",
-    "Chapter": "5",
-    "ChapterName": "जीवन बीमा एजेंट के कार्य",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/2023/06/lic-agent-responsibility.html"
-  },
-  {
-    "Subject": "agency-info",
-    "Chapter": "6",
-    "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
-  },
-  {
     "Subject": "agent",
     "Chapter": "1",
     "ChapterName": "एजेंसी की जानकारी: प्रकार, प्रक्रिया और एजेंट की जिम्मेदारियाँ",
@@ -86,18 +50,48 @@
   {
     "Subject": "agent",
     "Chapter": "9",
+    "ChapterName": "Insurance Agent Success Hub: सेल्स, मार्केटिंग और MDRT के अचूक टिप्स",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/p/insurance-agent-success-tips.html"
+  },
+  {
+    "Subject": "agent",
+    "Chapter": "10",
     "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "Subject": "bimaAgency",
+    "Subject": "agency-info",
     "Chapter": "1",
-    "ChapterName": "जीवन बीमा बिक्री में सफलता के 4 अटूट स्तंभ",
-    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/09/jeevan-bima-agent-safalta-tips.html"
+    "ChapterName": "एलआईसी रूरल करियर एजेंट की सम्पूर्ण जानकारी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2021/10/lic-rca-information.html"
   },
   {
-    "Subject": "bimaAgency",
+    "Subject": "agency-info",
     "Chapter": "2",
+    "ChapterName": "एलआईसी बीमा सखी योजना: महिलाओं का आर्थिक सशक्तिकरण",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2024/12/lic-bima-sakhi-ke-fayde.html"
+  },
+  {
+    "Subject": "agency-info",
+    "Chapter": "3",
+    "ChapterName": "अभिकर्ता बनने के लिए करें सबसे अच्छी बीमा कंपनी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2022/02/lic-agency.html"
+  },
+  {
+    "Subject": "agency-info",
+    "Chapter": "4",
+    "ChapterName": "एलआईसी एजेंट बनने की सम्पूर्ण जानकारी",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2022/02/kaise-bane-lic-agent.html"
+  },
+  {
+    "Subject": "agency-info",
+    "Chapter": "5",
+    "ChapterName": "जीवन बीमा एजेंट के कार्य",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2023/06/lic-agent-responsibility.html"
+  },
+  {
+    "Subject": "agency-info",
+    "Chapter": "6",
     "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
@@ -566,12 +560,18 @@
   {
     "Subject": "insurance-agent-tips",
     "Chapter": "1",
+    "ChapterName": "जीवन बीमा बिक्री में सफलता के 4 अटूट स्तंभ",
+    "ChapterUrl": "https://www.jeevanbimabazaar.com/2025/09/jeevan-bima-agent-safalta-tips.html"
+  },
+  {
+    "Subject": "insurance-agent-tips",
+    "Chapter": "2",
     "ChapterName": "JFM 2026: इंश्योरेंस टारगेट 100% पूरा करने के 5 मंत्र",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/2026/01/jfm-insurance-target-strategy.html"
   },
   {
     "Subject": "insurance-agent-tips",
-    "Chapter": "2",
+    "Chapter": "3",
     "ChapterName": "अगला भाग जल्द ही प्रस्तुत किया जाएगा...",
     "ChapterUrl": "https://www.jeevanbimabazaar.com/p/work-is-in-process.html"
   }
