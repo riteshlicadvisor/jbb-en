@@ -287,6 +287,13 @@
     "mainTitle": "LIC Survey Script: How to Talk to Strangers"
   },
   {
+    "slug": "surveyForm5",
+    "parentSlug": "survey-form",
+    "postTitle": "Contact Data",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/03/lic-survey-form-contact-section.html",
+    "mainTitle": "LIC Survey Form: Strategy for Contact & Family Details"
+  },
+  {
     "slug": "news",
     "parentSlug": "home",
     "postTitle": "News",
