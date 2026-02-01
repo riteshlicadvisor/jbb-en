@@ -370,5 +370,17 @@
     "linkTitle": "Survey Form Full Course",
     "linkUrl": "https://en.jeevanbimabazaar.com/p/survey-form.html",
     "linkAreaLabel": "Complete Course of Survey Form for LIC Agents"
+  },
+  {
+    "linkID": "discontinuedPlansHi",
+    "linkTitle": "LIC Discontinued Plans List",
+    "linkUrl": "https://www.jeevanbimabazaar.com/p/lic-discontinued-plans.html",
+    "linkAreaLabel": "LIC Discontinued Plans List: पुराने प्लान्स की पूरी जानकारी"
+  },
+  {
+    "linkID": "discontinuedPlansEn",
+    "linkTitle": "LIC Discontinued Plans Directory",
+    "linkUrl": "https://en.jeevanbimabazaar.com/p/lic-discontinued-plans-directory.html",
+    "linkAreaLabel": "LIC Discontinued Plans Directory: Benefits, Rules & Claim Guide"
   }
 ]
