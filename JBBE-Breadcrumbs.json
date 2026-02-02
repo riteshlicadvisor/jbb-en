@@ -425,5 +425,19 @@
     "postTitle": "Hit JFM Targets",
     "posturl": "https://en.jeevanbimabazaar.com/2026/01/jfm-insurance-target-strategy-nri-guide.html",
     "mainTitle": "JFM 2026: 5 Strategies to Hit 100% Insurance Target"
+  },
+  {
+    "slug": "discontinued-plans",
+    "parentSlug": "Home",
+    "postTitle": "Discontinued Plans",
+    "posturl": "https://en.jeevanbimabazaar.com/p/lic-discontinued-plans-directory.html",
+    "mainTitle": "LIC Discontinued Plans Directory"
+  },
+  {
+    "slug": "licPlan914",
+    "parentSlug": "discontinued-plans",
+    "postTitle": "LIC Plan 914",
+    "posturl": "https://en.jeevanbimabazaar.com/2026/02/lic-plan-914-guide.html",
+    "mainTitle": "LIC Plan 914: Benefits, Rules & Service Guide"
   }
 ]
