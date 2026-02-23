@@ -467,5 +467,19 @@
     "postTitle": "LIC Plan 2",
     "posturl": "https://en.jeevanbimabazaar.com/2026/02/lic-table-2-whole-life-guide.html",
     "mainTitle": "LIC Table 2: Low Premium Whole Life & Age 80 Cash-out Rule"
+  },
+  {
+    "slug": "licPlan149",
+    "parentSlug": "discontinued-plans",
+    "postTitle": "LIC Plan 149",
+    "posturl": "https://en.jeevanbimabazaar.com/2026/02/lic-jeevan-anand-149.html",
+    "mainTitle": "LIC Jeevan Anand Table No 149: New Rules & Benefits"
+  },
+  {
+    "slug": "licPlan149Cal",
+    "parentSlug": "discontinued-plans",
+    "postTitle": "LIC Plan 149 Calculator",
+    "posturl": "https://en.jeevanbimabazaar.com/2026/02/lic-plan-149-calculator-estimate.html",
+    "mainTitle": "LIC Plan 149 Calculator: Estimate Premium & Maturity"
   }
 ]
