@@ -406,5 +406,17 @@
     "linkTitle": "LIC Endowment Plan 14",
     "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-table-14-endowment-guide.html",
     "linkAreaLabel": "Know the benefits, bonus and surrender rules of LIC Table No. 14 in detail."
+  },
+  {
+    "linkID": "licPremiumCalculatorHi",
+    "linkTitle": "एलआईसी प्रीमियम कैलकुलेटर",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2026/02/lic-plan-14-calculator-estimator.html",
+    "linkAreaLabel": "एलआईसी के विभिन्न पॉलिसियों के प्रीमियम की गणना करें"
+  },
+  {
+    "linkID": "licPremiumCalculatorEn",
+    "linkTitle": "LIC Premium Calculator",
+    "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-plan-14-calculator.html",
+    "linkAreaLabel": "Calculate premium for various LIC policies"
   }
 ]
