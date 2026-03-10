@@ -424,5 +424,11 @@
     "linkTitle": "Insurance Regulatory and Development Authority of India",
     "linkUrl": "https://irdai.gov.in/",
     "linkAreaLabel": "Know more from IRDAI Official Website"
+  },
+  {
+    "linkID": "deathClaimCourse",
+    "linkTitle": "जीवन बीमा मृत्यु दावा की जानकारी",
+    "linkUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html",
+    "linkAreaLabel": "जीवन बीमा पॉलिसियों के मृत्यु दावा की सम्पूर्ण जानकारी प्राप्त करें"
   }
 ]
