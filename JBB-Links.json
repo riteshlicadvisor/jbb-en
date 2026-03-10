@@ -418,5 +418,11 @@
     "linkTitle": "LIC Premium Calculator",
     "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-plan-14-calculator.html",
     "linkAreaLabel": "Calculate premium for various LIC policies"
+  },
+  {
+    "linkID": "irdaHome",
+    "linkTitle": "Insurance Regulatory and Development Authority of India",
+    "linkUrl": "https://irdai.gov.in/",
+    "linkAreaLabel": "Know more from IRDAI Official Website"
   }
 ]
