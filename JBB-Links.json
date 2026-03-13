@@ -454,5 +454,11 @@
     "linkTitle": "IRDAI Guidelines",
     "linkUrl": "https://irdai.gov.in/en/guidelines",
     "linkAreaLabel": "See the latest IRDAI guidelines published on the official IRDA site."
+  },
+  {
+    "linkID": "agentTelegram",
+    "linkTitle": "Agents' Telegram group",
+    "linkUrl": "https://t.me/riteshlicadvisor01",
+    "linkAreaLabel": "Click here to join my official Telegram group."
   }
 ]
