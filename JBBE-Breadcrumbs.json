@@ -322,6 +322,13 @@
     "mainTitle": "LIC Address Update Question: Agent Survey Strategy"
   },
   {
+    "slug": "surveyForm10",
+    "parentSlug": "survey-form",
+    "postTitle": "NEFT Update Strategy",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/10/survey-form-neft-related-questions.html",
+    "mainTitle": "LIC NEFT Survey Strategy"
+  },
+  {
     "slug": "news",
     "parentSlug": "home",
     "postTitle": "News",
