@@ -444,6 +444,12 @@
     "linkAreaLabel": "LIC Official Link for NEFT Registration and Updates"
   },
   {
+    "linkID": "licPremiumPayment",
+    "linkTitle": "LIC Premium Payment Options",
+    "linkUrl": "https://licindia.in/premium-payment",
+    "linkAreaLabel": "Get details on LIC premium payment methods."
+  },
+  {
     "linkID": "irdaHome",
     "linkTitle": "Insurance Regulatory and Development Authority of India",
     "linkUrl": "https://irdai.gov.in/",
@@ -457,7 +463,7 @@
   },
   {
     "linkID": "agentTelegram",
-    "linkTitle": "Agents' Telegram group",
+    "linkTitle": "Agents' Telegram Group",
     "linkUrl": "https://t.me/riteshlicadvisor01",
     "linkAreaLabel": "Click here to join my official Telegram group."
   }
