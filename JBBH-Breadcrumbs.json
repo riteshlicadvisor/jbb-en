@@ -301,48 +301,6 @@
     "mainTitle": "JFM 2026: इंश्योरेंस टारगेट 100% पूरा करने के 5 मंत्र"
   },
   {
-    "slug": "insurance-info",
-    "parentSlug": "होम",
-    "postTitle": "बीमा की जानकारी",
-    "posturl": "https://www.jeevanbimabazaar.com/p/insurance-information.html",
-    "mainTitle": "Insurance Information"
-  },
-  {
-    "slug": "insurance-info1",
-    "parentSlug": "insurance-info",
-    "postTitle": "बीमा इतिहास",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-udyog-ka-itihas.html",
-    "mainTitle": "बीमा उद्योग का विकास कैसे हुआ? बीमा इतिहास की सुनहरी यात्रा"
-  },
-  {
-    "slug": "insurance-info2",
-    "parentSlug": "insurance-info",
-    "postTitle": "बीमा: एक परिचय",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-kya-hai-puri-jankari.html",
-    "mainTitle": "बीमा की पूरी जानकारी: क्या है, क्यों जरूरी है और कैसे काम करता है"
-  },
-  {
-    "slug": "insurance-info3",
-    "parentSlug": "insurance-info",
-    "postTitle": "जोखिम प्रबंधन",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-mein-jokhim-prabandhan.html",
-    "mainTitle": "जोखिम प्रबंधन और बीमा: जोखिम आकलन से सुरक्षा तक"
-  },
-  {
-    "slug": "insurance-info4",
-    "parentSlug": "insurance-info",
-    "postTitle": "ज़रूरी बीमा",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/12/types-of-insurance-in-india.html",
-    "mainTitle": "भारत में ज़रूरी बीमा: कौन-सा बीमा कब और क्यों लें?"
-  },
-  {
-    "slug": "insurance-info5",
-    "parentSlug": "insurance-info",
-    "postTitle": "प्रीमियम की गणना",
-    "posturl": "https://www.jeevanbimabazaar.com/2026/03/lic-premium-calculation-formula.html",
-    "mainTitle": "एलआईसी प्रीमियम की गणना कैसे करें"
-  },
-  {
     "slug": "licRiders",
     "parentSlug": "होम",
     "postTitle": "LIC Riders",
@@ -544,5 +502,26 @@
     "postTitle": "LIC Plan 149 Calculator",
     "posturl": "https://www.jeevanbimabazaar.com/2026/02/lic-jeevan-anand-149-calculator.html",
     "mainTitle": "LIC Jeevan Anand 149 Calculator: Premium & Maturity"
+  },
+  {
+    "slug": "bimaGuide",
+    "parentSlug": "होम",
+    "postTitle": "बीमा की जानकारी",
+    "posturl": "https://www.jeevanbimabazaar.com/p/bima-guide.html",
+    "mainTitle": "बीमा गाइड: शुरुआत से अंत तक पूरी जानकारी"
+  },
+  {
+    "slug": "bimaGuide1",
+    "parentSlug": "bimaGuide",
+    "postTitle": "बीमा गाइड",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-kya-hai-puri-jankari.html",
+    "mainTitle": "जीवन बीमा क्या है? फायदे और सरल भाषा में जानकारी"
+  },
+  {
+    "slug": "bimaGuide2",
+    "parentSlug": "bimaGuide",
+    "postTitle": "प्रीमियम की गणना",
+    "posturl": "https://www.jeevanbimabazaar.com/2026/03/lic-premium-calculation-formula.html",
+    "mainTitle": "एलआईसी प्रीमियम की गणना कैसे करें"
   }
 ]
