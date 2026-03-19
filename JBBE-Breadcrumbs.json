@@ -406,48 +406,6 @@
     "mainTitle": "Claim Rejected? Medically Necessary Hospitalization Explained"
   },
   {
-    "slug": "insurance-info",
-    "parentSlug": "home",
-    "postTitle": "Insurance Information",
-    "posturl": "https://en.jeevanbimabazaar.com/p/insurance-information.html",
-    "mainTitle": "Insurance Information"
-  },
-  {
-    "slug": "insurance-info-post1",
-    "parentSlug": "insurance-info",
-    "postTitle": "Chapter 1",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/12/insurance-industry-history.html",
-    "mainTitle": "History of the Insurance Industry"
-  },
-  {
-    "slug": "insurance-info-post2",
-    "parentSlug": "insurance-info",
-    "postTitle": "Chapter 2",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/12/what-is-insurance.html",
-    "mainTitle": "What is Insurance? Importance, Types, How It Works and Benefits Explained"
-  },
-  {
-    "slug": "insurance-info-post3",
-    "parentSlug": "insurance-info",
-    "postTitle": "Chapter 3",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/12/insurance-risk-management-guide.html",
-    "mainTitle": "Risk Management and Insurance: Risk Assessment to Protection"
-  },
-  {
-    "slug": "insurance-info-post4",
-    "parentSlug": "insurance-info",
-    "postTitle": "Chapter 4",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/12/types-of-insurance-you-need-in-india.html",
-    "mainTitle": "Types of Insurance You Need in India"
-  },
-  {
-    "slug": "insurance-info-post5",
-    "parentSlug": "insurance-info",
-    "postTitle": "Premium Calculation",
-    "posturl": "https://en.jeevanbimabazaar.com/2026/03/lic-premium-calculation-logic.html",
-    "mainTitle": "LIC Premium Calculation Logic"
-  },
-  {
     "slug": "investment-guide",
     "parentSlug": "home",
     "postTitle": "Investment Guide",
@@ -537,5 +495,26 @@
     "postTitle": "LIC Plan 149 Calculator",
     "posturl": "https://en.jeevanbimabazaar.com/2026/02/lic-plan-149-calculator-estimate.html",
     "mainTitle": "LIC Plan 149 Calculator: Estimate Premium & Maturity"
+  },
+  {
+    "slug": "bimaGuide",
+    "parentSlug": "home",
+    "postTitle": "Insurance Information",
+    "posturl": "https://en.jeevanbimabazaar.com/p/insurance-guide.html",
+    "mainTitle": "Complete Insurance Guide: Step-by-Step Knowledge Hub"
+  },
+  {
+    "slug": "bimaGuide1",
+    "parentSlug": "bimaGuide",
+    "postTitle": "Insurance Guide",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/12/what-is-insurance.html",
+    "mainTitle": "What is Insurance? Benefits & Complete Guide"
+  },
+  {
+    "slug": "bimaGuide2",
+    "parentSlug": "bimaGuide",
+    "postTitle": "Premium Calculation",
+    "posturl": "https://en.jeevanbimabazaar.com/2026/03/lic-premium-calculation-logic.html",
+    "mainTitle": "LIC Premium Calculation Logic"
   }
 ]
