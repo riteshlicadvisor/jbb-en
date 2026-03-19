@@ -44,8 +44,8 @@
   {
     "Subject": "agent",
     "Chapter": 2,
-    "ChapterName": "Insurance, Insurance Basics, Insurance Policies and Much more...",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/insurance-information.html"
+    "ChapterName": "Complete Insurance Guide: Step-by-Step Knowledge Hub",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/insurance-guide.html"
   },
   {
     "Subject": "agent",
@@ -338,8 +338,8 @@
   {
     "Subject": "policyholder",
     "Chapter": "1",
-    "ChapterName": "Insurance, Insurance Basics, Insurance Policies and Much more...",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/insurance-information.html"
+    "ChapterName": "Complete Insurance Guide: Step-by-Step Knowledge Hub",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/insurance-guide.html"
   },
   {
     "Subject": "policyholder",
@@ -516,42 +516,6 @@
     "ChapterUrl": "https://en.jeevanbimabazaar.com/p/work-is-in-process.html"
   },
   {
-    "Subject": "insurance-info",
-    "Chapter": "1",
-    "ChapterName": "History of the Insurance Industry",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/2025/12/insurance-industry-history.html"
-  },
-  {
-    "Subject": "insurance-info",
-    "Chapter": "2",
-    "ChapterName": "What is Insurance? Importance, Types, How It Works and Benefits Explained",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/2025/12/what-is-insurance.html"
-  },
-  {
-    "Subject": "insurance-info",
-    "Chapter": "3",
-    "ChapterName": "Risk Management and Insurance: Risk Assessment to Protection",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/2025/12/insurance-risk-management-guide.html"
-  },
-  {
-    "Subject": "insurance-info",
-    "Chapter": "4",
-    "ChapterName": "Types of Insurance You Need in India",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/2025/12/types-of-insurance-you-need-in-india.html"
-  },
-  {
-    "Subject": "insurance-info",
-    "Chapter": "5",
-    "ChapterName": "LIC Premium Calculation Logic",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/2026/03/lic-premium-calculation-logic.html"
-  },
-  {
-    "Subject": "insurance-info",
-    "Chapter": "6",
-    "ChapterName": "Next part of this course is coming soon...",
-    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/work-is-in-process.html"
-  },
-  {
     "Subject": "investment-guide",
     "Chapter": "1",
     "ChapterName": "The Ultimate Guide to Tax Saving & High Returns",
@@ -626,6 +590,24 @@
   {
     "Subject": "discontinuedPlans",
     "Chapter": "9",
+    "ChapterName": "Next part of this course is coming soon...",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/p/work-is-in-process.html"
+  },
+  {
+    "Subject": "bimaGuide",
+    "Chapter": "1",
+    "ChapterName": "What is Insurance? Benefits & Complete Guide",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/2025/12/what-is-insurance.html"
+  },
+  {
+    "Subject": "bimaGuide",
+    "Chapter": "2",
+    "ChapterName": "LIC Premium Calculation Logic",
+    "ChapterUrl": "https://en.jeevanbimabazaar.com/2026/03/lic-premium-calculation-logic.html"
+  },
+  {
+    "Subject": "bimaGuide",
+    "Chapter": "3",
     "ChapterName": "Next part of this course is coming soon...",
     "ChapterUrl": "https://en.jeevanbimabazaar.com/p/work-is-in-process.html"
   }
