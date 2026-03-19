@@ -1,15 +1,129 @@
 [
   {
-    "linkID": "disAdbRiderEn",
-    "linkTitle": "LIC's Accidental Benefit Rider »",
-    "linkUrl": "",
-    "linkAreaLabel": "Know more about LIC's Accidental Benefit Rider"
+    "linkID": "discontinuedPlansHi",
+    "linkTitle": "LIC Discontinued Plans List",
+    "linkUrl": "https://www.jeevanbimabazaar.com/p/lic-discontinued-plans.html",
+    "linkAreaLabel": "LIC Discontinued Plans List: पुराने प्लान्स की पूरी जानकारी"
+  },
+  {
+    "linkID": "licSurveyFormCourse",
+    "linkTitle": "एलआईसी एजेंटों के लिए सर्वे फॉर्म कोर्स",
+    "linkUrl": "https://www.jeevanbimabazaar.com/p/survey-form.html",
+    "linkAreaLabel": "सर्वे फॉर्म का पूरा कोर्स हिंदी भाषा में उपलब्ध है"
+  },
+  {
+    "linkID": "tableNo14hi",
+    "linkTitle": "LIC Endowment Plan 14",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2022/08/lic-plan-14-hi.html",
+    "linkAreaLabel": "LIC Endowment Plan 14 की पूरी जानकारी और नियमों को विस्तार से जानें"
+  },
+  {
+    "linkID": "licPremiumCalculatorHi",
+    "linkTitle": "एलआईसी प्रीमियम कैलकुलेटर",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2026/02/lic-plan-14-calculator-estimator.html",
+    "linkAreaLabel": "एलआईसी के विभिन्न पॉलिसियों के प्रीमियम की गणना करें"
+  },
+  {
+    "linkID": "deathClaimCourse",
+    "linkTitle": "जीवन बीमा मृत्यु दावा की जानकारी",
+    "linkUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html",
+    "linkAreaLabel": "जीवन बीमा पॉलिसियों के मृत्यु दावा की सम्पूर्ण जानकारी प्राप्त करें"
+  },
+  {
+    "linkID": "termPlanInfoHi",
+    "linkTitle": "टर्म इंश्योरेंस प्लान | टर्म इंश्योरेंस पॉलिसी क्या है",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2023/11/term-insurance-plan.html",
+    "linkAreaLabel": "टर्म प्लान के विषय में विस्तार से सीखें, सरल हिंदी में।"
   },
   {
     "linkID": "disAdbRiderHi",
     "linkTitle": "एलआईसी का एक्सीडेंटल बेनिफिट राइडर »",
     "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/lic-adb-rider.html",
     "linkAreaLabel": "एलआईसी का एक्सीडेंटल बेनिफिट राइडर के बारे में जानें"
+  },
+  {
+    "linkID": "licDoLocatorEn",
+    "linkTitle": "List of Development Officer and CLIA »",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2022/06/lic-do-clia-list.html",
+    "linkAreaLabel": "See the list of officers who appoint agents in LIC"
+  },
+  {
+    "linkID": "licDoLocatorHi",
+    "linkTitle": "विकास अधिकारी एवं सीएलआईए की सूची »",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2022/06/lic-do-clia-list.html",
+    "linkAreaLabel": "एलआईसी में एजेंट नियुक्त करने वाले अधिकारियों की सूची देखें"
+  },
+  {
+    "linkID": "postJbbh02112024",
+    "linkTitle": "बीमा पॉलिसियों के मृत्यु दावा सूचना में समस्या और समाधान",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2024/11/mrityu-dawa-samasya-samadhan.html",
+    "linkAreaLabel": "मृत्यु दावा सूचना में समस्या और समाधान के लिए लेख विस्तार से पढ़ें"
+  },
+  {
+    "linkID": "postJbbh14102024",
+    "linkTitle": "एलआईसी में मृत्यु दावा हेतु आवेदन पत्र",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2024/10/lic-mrityu-dawa-awedan.html",
+    "linkAreaLabel": "एलआईसी के मृत्यु दावा हेतु आवेदन पत्र के बारे में विस्तार से जानें"
+  },
+  {
+    "linkID": "postPendingHi",
+    "linkTitle": "भारत में नॉमिनी के अधिकार",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/nominee-rights-in-india.html",
+    "linkAreaLabel": "भारत में नॉमिनी के कानूनी अधिकारों को विस्तार से जाने"
+  },
+  {
+    "linkID": "postPendingEn",
+    "linkTitle": "Nominee Rights in India",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/nominee-rights-in-india.html",
+    "linkAreaLabel": "Know in detail the legal rights of the nominee in India"
+  },
+  {
+    "linkID": "disAdbRiderEn",
+    "linkTitle": "LIC's Accidental Benefit Rider »",
+    "linkUrl": "#",
+    "linkAreaLabel": "Know more about LIC's Accidental Benefit Rider"
+  },
+  {
+    "linkID": "licSurveyFormCourseen",
+    "linkTitle": "Survey Form Full Course",
+    "linkUrl": "https://en.jeevanbimabazaar.com/p/survey-form.html",
+    "linkAreaLabel": "Complete Course of Survey Form for LIC Agents"
+  },
+  {
+    "linkID": "discontinuedPlansEn",
+    "linkTitle": "LIC Discontinued Plans Directory",
+    "linkUrl": "https://en.jeevanbimabazaar.com/p/lic-discontinued-plans-directory.html",
+    "linkAreaLabel": "LIC Discontinued Plans Directory: Benefits, Rules & Claim Guide"
+  },
+  {
+    "linkID": "tableNo149en",
+    "linkTitle": "LIC Jeevan Anand (Table 149)",
+    "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-jeevan-anand-149.html",
+    "linkAreaLabel": "Know the new rules and benefits of LIC Jeevan Anand Table No. 149 in detail."
+  },
+  {
+    "linkID": "tableNo14en",
+    "linkTitle": "LIC Endowment Plan 14",
+    "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-table-14-endowment-guide.html",
+    "linkAreaLabel": "Know the benefits, bonus and surrender rules of LIC Table No. 14 in detail."
+  },
+  {
+    "linkID": "licPremiumCalculatorEn",
+    "linkTitle": "LIC Premium Calculator",
+    "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-plan-14-calculator.html",
+    "linkAreaLabel": "Calculate premium for various LIC policies"
+  },
+  {
+    "linkID": "deathClaimCourseEn",
+    "linkTitle": "Life Insurance Death Claim Information",
+    "linkUrl": "https://en.jeevanbimabazaar.com/p/lic-death-claim.html",
+    "linkAreaLabel": "Obtain full details on life insurance policy death claims."
+  },
+  {
+    "linkID": "termPlanInfoEn",
+    "linkTitle": "Term Life Insurance Plans | What is a Term Life Insurance Policy?",
+    "linkUrl": "#",
+    "linkAreaLabel": "Understand term plans in depth, in simple Hindi."
   },
   {
     "linkID": "licAgentLocatorEn",
@@ -36,28 +150,58 @@
     "linkAreaLabel": "एलआईसी के शाखा कार्यालय की जानकारी प्राप्त करें"
   },
   {
-    "linkID": "licDoLocatorEn",
-    "linkTitle": "List of Development Officer and CLIA »",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2022/06/lic-do-clia-list.html",
-    "linkAreaLabel": "See the list of officers who appoint agents in LIC"
+    "linkID": "freeListingHi",
+    "linkTitle": "ऑनलाइन लोकेटर सेवा पंजीकरण",
+    "linkUrl": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html",
+    "linkAreaLabel": "अपने कारोबार को डिजिटल करने हेतु पंजीकरण कीजिये"
   },
   {
-    "linkID": "licDoLocatorHi",
-    "linkTitle": "विकास अधिकारी एवं सीएलआईए की सूची »",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2022/06/lic-do-clia-list.html",
-    "linkAreaLabel": "एलआईसी में एजेंट नियुक्त करने वाले अधिकारियों की सूची देखें"
+    "linkID": "freeListingEn",
+    "linkTitle": "Online Locator Service Registration",
+    "linkUrl": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html",
+    "linkAreaLabel": "Register to digitize your business"
   },
   {
-    "linkID": "postJbbh02112024",
-    "linkTitle": "बीमा पॉलिसियों के मृत्यु दावा सूचना में समस्या और समाधान",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2024/11/mrityu-dawa-samasya-samadhan.html",
-    "linkAreaLabel": "मृत्यु दावा सूचना में समस्या और समाधान के लिए लेख विस्तार से पढ़ें"
+    "linkID": "licHome",
+    "linkTitle": "LIC of India",
+    "linkUrl": "https://licindia.in/",
+    "linkAreaLabel": "Know more from LIC Official Website"
   },
   {
-    "linkID": "postJbbh14102024",
-    "linkTitle": "एलआईसी में मृत्यु दावा हेतु आवेदन पत्र",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2024/10/lic-mrityu-dawa-awedan.html",
-    "linkAreaLabel": "एलआईसी के मृत्यु दावा हेतु आवेदन पत्र के बारे में विस्तार से जानें"
+    "linkID": "licAnnualReport",
+    "linkTitle": "LIC Annual Report",
+    "linkUrl": "https://licindia.in/web/guest/annual-report",
+    "linkAreaLabel": "Know more about Annual Report from the official website of LIC"
+  },
+  {
+    "linkID": "licNeft",
+    "linkTitle": "LIC Online NEFT Registration/Update",
+    "linkUrl": "https://licindia.in/online-enach-emandate-",
+    "linkAreaLabel": "LIC Official Link for NEFT Registration and Updates"
+  },
+  {
+    "linkID": "licPremiumPayment",
+    "linkTitle": "LIC Premium Payment Options",
+    "linkUrl": "https://licindia.in/premium-payment",
+    "linkAreaLabel": "Get details on LIC premium payment methods."
+  },
+  {
+    "linkID": "irdaHome",
+    "linkTitle": "Insurance Regulatory and Development Authority of India",
+    "linkUrl": "https://irdai.gov.in/",
+    "linkAreaLabel": "Know more from IRDAI Official Website"
+  },
+  {
+    "linkID": "irdaGuidelines",
+    "linkTitle": "IRDAI Guidelines",
+    "linkUrl": "https://irdai.gov.in/en/guidelines",
+    "linkAreaLabel": "See the latest IRDAI guidelines published on the official IRDA site."
+  },
+  {
+    "linkID": "agentTelegram",
+    "linkTitle": "Agents' Telegram Group",
+    "linkUrl": "https://t.me/riteshlicadvisor01",
+    "linkAreaLabel": "Click here to join my official Telegram group."
   },
   {
     "linkID": "shortHi01112024",
@@ -282,30 +426,6 @@
     "linkAreaLabel": "FUP and Death Claim Process – Short Guide"
   },
   {
-    "linkID": "postPendingHi",
-    "linkTitle": "भारत में नॉमिनी के अधिकार",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/nominee-rights-in-india.html",
-    "linkAreaLabel": "भारत में नॉमिनी के कानूनी अधिकारों को विस्तार से जाने"
-  },
-  {
-    "linkID": "postPendingEn",
-    "linkTitle": "Nominee Rights in India",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/nominee-rights-in-india.html",
-    "linkAreaLabel": "Know in detail the legal rights of the nominee in India"
-  },
-  {
-    "linkID": "freeListingHi",
-    "linkTitle": "ऑनलाइन लोकेटर सेवा पंजीकरण",
-    "linkUrl": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html",
-    "linkAreaLabel": "अपने कारोबार को डिजिटल करने हेतु पंजीकरण कीजिये"
-  },
-  {
-    "linkID": "freeListingEn",
-    "linkTitle": "Online Locator Service Registration",
-    "linkUrl": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html",
-    "linkAreaLabel": "Register to digitize your business"
-  },
-  {
     "linkID": "shortHi23082025",
     "linkTitle": "जीवन बीमा सुरक्षा क्या है? | Life Insurance Basics in Hindi",
     "linkUrl": "https://youtube.com/shorts/rZLDXckoE1I",
@@ -358,114 +478,6 @@
     "linkTitle": "Official Portability Rules",
     "linkUrl": "https://policyholder.gov.in/portability-of-health-insurance",
     "linkAreaLabel": "Click here to read the Official Portability Rules on Policyholder.gov.in"
-  },
-  {
-    "linkID": "licSurveyFormCourse",
-    "linkTitle": "एलआईसी एजेंटों के लिए सर्वे फॉर्म कोर्स",
-    "linkUrl": "https://www.jeevanbimabazaar.com/p/survey-form.html",
-    "linkAreaLabel": "सर्वे फॉर्म का पूरा कोर्स हिंदी भाषा में उपलब्ध है"
-  },
-  {
-    "linkID": "licSurveyFormCourseen",
-    "linkTitle": "Survey Form Full Course",
-    "linkUrl": "https://en.jeevanbimabazaar.com/p/survey-form.html",
-    "linkAreaLabel": "Complete Course of Survey Form for LIC Agents"
-  },
-  {
-    "linkID": "discontinuedPlansHi",
-    "linkTitle": "LIC Discontinued Plans List",
-    "linkUrl": "https://www.jeevanbimabazaar.com/p/lic-discontinued-plans.html",
-    "linkAreaLabel": "LIC Discontinued Plans List: पुराने प्लान्स की पूरी जानकारी"
-  },
-  {
-    "linkID": "discontinuedPlansEn",
-    "linkTitle": "LIC Discontinued Plans Directory",
-    "linkUrl": "https://en.jeevanbimabazaar.com/p/lic-discontinued-plans-directory.html",
-    "linkAreaLabel": "LIC Discontinued Plans Directory: Benefits, Rules & Claim Guide"
-  },
-  {
-    "linkID": "tableNo149en",
-    "linkTitle": "LIC Jeevan Anand (Table 149)",
-    "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-jeevan-anand-149.html",
-    "linkAreaLabel": "Know the new rules and benefits of LIC Jeevan Anand Table No. 149 in detail."
-  },
-  {
-    "linkID": "tableNo14hi",
-    "linkTitle": "LIC Endowment Plan 14",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2022/08/lic-plan-14-hi.html",
-    "linkAreaLabel": "LIC Endowment Plan 14 की पूरी जानकारी और नियमों को विस्तार से जानें"
-  },
-  {
-    "linkID": "tableNo14en",
-    "linkTitle": "LIC Endowment Plan 14",
-    "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-table-14-endowment-guide.html",
-    "linkAreaLabel": "Know the benefits, bonus and surrender rules of LIC Table No. 14 in detail."
-  },
-  {
-    "linkID": "licPremiumCalculatorHi",
-    "linkTitle": "एलआईसी प्रीमियम कैलकुलेटर",
-    "linkUrl": "https://www.jeevanbimabazaar.com/2026/02/lic-plan-14-calculator-estimator.html",
-    "linkAreaLabel": "एलआईसी के विभिन्न पॉलिसियों के प्रीमियम की गणना करें"
-  },
-  {
-    "linkID": "licPremiumCalculatorEn",
-    "linkTitle": "LIC Premium Calculator",
-    "linkUrl": "https://en.jeevanbimabazaar.com/2026/02/lic-plan-14-calculator.html",
-    "linkAreaLabel": "Calculate premium for various LIC policies"
-  },
-  {
-    "linkID": "deathClaimCourse",
-    "linkTitle": "जीवन बीमा मृत्यु दावा की जानकारी",
-    "linkUrl": "https://www.jeevanbimabazaar.com/p/lic-death-claim.html",
-    "linkAreaLabel": "जीवन बीमा पॉलिसियों के मृत्यु दावा की सम्पूर्ण जानकारी प्राप्त करें"
-  },
-  {
-    "linkID": "deathClaimCourseEn",
-    "linkTitle": "Life Insurance Death Claim Information",
-    "linkUrl": "https://en.jeevanbimabazaar.com/p/lic-death-claim.html",
-    "linkAreaLabel": "Obtain full details on life insurance policy death claims."
-  },
-  {
-    "linkID": "licHome",
-    "linkTitle": "LIC of India",
-    "linkUrl": "https://licindia.in/",
-    "linkAreaLabel": "Know more from LIC Official Website"
-  },
-  {
-    "linkID": "licAnnualReport",
-    "linkTitle": "LIC Annual Report",
-    "linkUrl": "https://licindia.in/web/guest/annual-report",
-    "linkAreaLabel": "Know more about Annual Report from the official website of LIC"
-  },
-  {
-    "linkID": "licNeft",
-    "linkTitle": "LIC Online NEFT Registration/Update",
-    "linkUrl": "https://licindia.in/online-enach-emandate-",
-    "linkAreaLabel": "LIC Official Link for NEFT Registration and Updates"
-  },
-  {
-    "linkID": "licPremiumPayment",
-    "linkTitle": "LIC Premium Payment Options",
-    "linkUrl": "https://licindia.in/premium-payment",
-    "linkAreaLabel": "Get details on LIC premium payment methods."
-  },
-  {
-    "linkID": "irdaHome",
-    "linkTitle": "Insurance Regulatory and Development Authority of India",
-    "linkUrl": "https://irdai.gov.in/",
-    "linkAreaLabel": "Know more from IRDAI Official Website"
-  },
-  {
-    "linkID": "irdaGuidelines",
-    "linkTitle": "IRDAI Guidelines",
-    "linkUrl": "https://irdai.gov.in/en/guidelines",
-    "linkAreaLabel": "See the latest IRDAI guidelines published on the official IRDA site."
-  },
-  {
-    "linkID": "agentTelegram",
-    "linkTitle": "Agents' Telegram Group",
-    "linkUrl": "https://t.me/riteshlicadvisor01",
-    "linkAreaLabel": "Click here to join my official Telegram group."
   },
   {
     "linkID": "youtubeJBB",
