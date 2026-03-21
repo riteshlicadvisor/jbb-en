@@ -514,11 +514,18 @@
     "slug": "bimaGuide2",
     "parentSlug": "bimaGuide",
     "postTitle": "Risk Information",
-    "posturl": "https://en.jeevanbimabazaar.com/2025/12/insurance-risk-management-guide.html",
+    "posturl": "https://en.jeevanbimabazaar.com/2026/03/what-is-risk-complete-guide.html",
     "mainTitle": "What is Risk? Your Guide to Life's Hidden Threats"
   },
   {
     "slug": "bimaGuide3",
+    "parentSlug": "bimaGuide",
+    "postTitle": "Risk Management",
+    "posturl": "https://en.jeevanbimabazaar.com/2025/12/insurance-risk-management-guide.html",
+    "mainTitle": "What is Risk Management? The Wealth Security Guide"
+  },
+  {
+    "slug": "bimaGuide4",
     "parentSlug": "bimaGuide",
     "postTitle": "Premium Calculation",
     "posturl": "https://en.jeevanbimabazaar.com/2026/03/lic-premium-calculation-logic.html",
