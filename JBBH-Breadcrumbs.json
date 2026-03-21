@@ -521,11 +521,18 @@
     "slug": "bimaGuide2",
     "parentSlug": "bimaGuide",
     "postTitle": "जोखिम संबंधी जानकारी",
-    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-mein-jokhim-prabandhan.html",
+    "posturl": "https://www.jeevanbimabazaar.com/2026/03/jokhim-risk-kya-hai-jankari.html",
     "mainTitle": "जोखिम (Risk) क्या है? इसे कैसे पहचानें"
   },
   {
     "slug": "bimaGuide3",
+    "parentSlug": "bimaGuide",
+    "postTitle": "जोखिम प्रबंधन",
+    "posturl": "https://www.jeevanbimabazaar.com/2025/12/bima-mein-jokhim-prabandhan.html",
+    "mainTitle": "जोखिम प्रबंधन क्या होता है?"
+  },
+  {
+    "slug": "bimaGuide4",
     "parentSlug": "bimaGuide",
     "postTitle": "प्रीमियम की गणना",
     "posturl": "https://www.jeevanbimabazaar.com/2026/03/lic-premium-calculation-formula.html",
