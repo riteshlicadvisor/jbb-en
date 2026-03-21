@@ -36,6 +36,12 @@
     "linkAreaLabel": "टर्म प्लान के विषय में विस्तार से सीखें, सरल हिंदी में।"
   },
   {
+    "linkID": "whatBima",
+    "linkTitle": "जीवन बीमा क्या है",
+    "linkUrl": "https://www.jeevanbimabazaar.com/2025/12/bima-kya-hai-puri-jankari.html",
+    "linkAreaLabel": "जीवन बीमा की विस्तृत जानकारी प्राप्त करें।"
+  },
+  {
     "linkID": "disAdbRiderHi",
     "linkTitle": "एलआईसी का एक्सीडेंटल बेनिफिट राइडर »",
     "linkUrl": "https://www.jeevanbimabazaar.com/2021/09/lic-adb-rider.html",
@@ -118,6 +124,12 @@
     "linkTitle": "Life Insurance Death Claim Information",
     "linkUrl": "https://en.jeevanbimabazaar.com/p/lic-death-claim.html",
     "linkAreaLabel": "Obtain full details on life insurance policy death claims."
+  },
+  {
+    "linkID": "whatInsurance",
+    "linkTitle": "What is Insurance?",
+    "linkUrl": "https://en.jeevanbimabazaar.com/2025/12/what-is-insurance.html",
+    "linkAreaLabel": "Get detailed information on insurance."
   },
   {
     "linkID": "termPlanInfoEn",
